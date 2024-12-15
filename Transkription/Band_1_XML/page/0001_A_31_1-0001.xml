@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.18.1:model_id=50870:lm=none:date=11_10_2024_02:00</Creator>
+        <Created>2024-10-10T20:40:40.617+02:00</Created>
+        <LastChange>2024-10-11T21:39:55.945+02:00</LastChange>
+        <TranskribusMetadata docId="4569296" pageId="80067895" pageNr="1" tsid="193161134" status="FINAL" userId="234681" imgUrl="https://files.transkribus.eu/Get?id=EQZDIIOHWGARWULBZYFGOXLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUBMQIBIACQCWVDMSBVACNZK" imageId="65558861"/>
+    </Metadata>
+    <Page imageFilename="0001_A_31_1-0001.jpg" imageWidth="3877" imageHeight="6021">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734272714207" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1057,1035 1057,2369 3040,2369 3040,1035"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} ort {offset:0; length:7;art_des_orts:Amtsstadt; name_ort:Neuffen;}">
+                <Coords points="2026,1188 2093,1200 2135,1166 2221,1156 2263,1124 2302,1139 2327,1124 2384,1129 2389,929 2310,929 2263,910 2199,922 2117,863 2053,900 2034,892"/>
+                <Baseline points="2042,1122 2068,1118 2095,1115 2122,1111 2148,1109 2175,1107 2202,1106 2228,1105 2255,1105 2282,1105 2308,1106 2335,1107 2362,1109 2389,1111"/>
+                <TextEquiv>
+                    <Unicode>Neuffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1770,1412 2145,1373 2258,1415 2312,1388 2546,1437 2556,1203 2519,1186 2295,1262 2186,1191 2095,1196 1775,1311"/>
+                <Baseline points="1785,1391 1823,1387 1862,1383 1900,1381 1939,1379 1977,1379 2016,1379 2054,1377 2093,1374 2131,1373 2170,1373 2209,1372 2247,1370 2286,1367 2324,1365 2363,1362 2401,1359 2440,1357 2478,1355 2517,1355 2556,1355"/>
+                <TextEquiv>
+                    <Unicode>Protocoll
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1055,1654 1289,1711 1348,1674 1452,1728 1615,1676 1807,1723 1886,1684 1999,1748 2117,1693 2783,1834 3037,1770 3029,1553 2956,1580 2746,1531 2517,1430 2403,1427 2310,1506 2088,1430 1743,1526 1481,1417 1136,1422 1045,1380"/>
+                <Baseline points="1069,1648 1167,1641 1266,1637 1364,1646 1463,1656 1561,1663 1660,1670 1758,1676 1857,1678 1955,1673 2054,1678 2153,1689 2251,1685 2350,1690 2448,1692 2547,1696 2645,1700 2744,1706 2842,1699 2941,1696 3040,1714"/>
+                <TextEquiv>
+                    <Unicode>Stad und Amts Versammlung
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1960,1920 1994,1915 2053,1876 2100,1910 2145,1901 2204,1940 2241,1933 2236,1706 2162,1723 2100,1693 2002,1745 1955,1748"/>
+                <Baseline points="1971,1821 1998,1821 2025,1821 2053,1821 2080,1821 2108,1821 2135,1821 2162,1822 2190,1824 2217,1826 2245,1827"/>
+                <TextEquiv>
+                    <Unicode>geführt
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1043,2184 1272,2218 1447,2152 1555,2204 1647,2147 1977,2132 2450,2209 2633,2191 2630,1942 2278,2019 1878,1937 1575,2046 1363,1989 1235,2076 1040,2043"/>
+                <Baseline points="1057,2132 1136,2132 1215,2137 1294,2134 1373,2135 1452,2138 1531,2138 1611,2136 1690,2126 1769,2132 1848,2132 1927,2132 2006,2132 2085,2138 2165,2146 2244,2151 2323,2156 2402,2156 2481,2151 2560,2150 2640,2156"/>
+                <TextEquiv>
+                    <Unicode>Vom 24t May p. 1734</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1565,2317 1834,2349 2014,2295 2601,2428 2606,2164 2369,2174 2214,2231 2024,2135 1873,2265 1659,2174 1558,2194"/>
+                <Baseline points="1576,2275 1628,2285 1680,2294 1732,2297 1785,2299 1837,2299 1889,2290 1942,2280 1994,2273 2046,2269 2099,2269 2151,2284 2203,2305 2255,2312 2308,2319 2360,2326 2412,2329 2465,2329 2517,2329 2569,2330 2622,2335"/>
+                <TextEquiv>
+                    <Unicode>bis 14ten Jun 1746</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

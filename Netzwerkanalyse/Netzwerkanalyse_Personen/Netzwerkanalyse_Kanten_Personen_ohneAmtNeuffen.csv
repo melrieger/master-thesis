@@ -1,0 +1,784 @@
+Source,Target,Type,Kind,Id,Label,Weight
+33,82,Undirected,Familienverhältnis,0,,5
+58,59,Undirected,Familienverhältnis,1,,5
+1,82,Undirected,Familienverhältnis,2,,5
+2,180,Undirected,Familienverhältnis,3,,5
+104,426,Undirected,Familienverhältnis,4,,5
+15,79,Undirected,Familienverhältnis,5,,5
+449,119,Undirected,selbes Amt im Amt (Bürgermeister),58,,2
+449,2,Undirected,selbes Amt im Amt (Bürgermeister),59,,2
+449,1,Undirected,selbes Amt im Amt (Bürgermeister),60,,2
+2,1,Undirected,selbes Amt im Amt (Bürgermeister),61,,2
+2,119,Undirected,selbes Amt im Amt (Bürgermeister),62,,2
+1,119,Undirected,selbes Amt im Amt (Bürgermeister),63,,2
+1,110,Undirected,selbes Amt im Amt (Bürgermeister),64,,2
+1,106,Undirected,selbes Amt im Amt (Bürgermeister),65,,2
+2,106,Undirected,selbes Amt im Amt (Bürgermeister),66,,2
+2,110,Undirected,selbes Amt im Amt (Bürgermeister),67,,2
+119,110,Undirected,selbes Amt im Amt (Bürgermeister),68,,2
+119,106,Undirected,selbes Amt im Amt (Bürgermeister),69,,2
+449,106,Undirected,selbes Amt im Amt (Bürgermeister),70,,2
+449,110,Undirected,selbes Amt im Amt (Bürgermeister),71,,2
+14,1,Undirected,selbes Amt im Amt (Bürgermeister),81,,2
+14,2,Undirected,selbes Amt im Amt (Bürgermeister),82,,2
+14,106,Undirected,selbes Amt im Amt (Bürgermeister),83,,2
+14,110,Undirected,selbes Amt im Amt (Bürgermeister),84,,2
+14,119,Undirected,selbes Amt im Amt (Bürgermeister),85,,2
+14,449,Undirected,selbes Amt im Amt (Bürgermeister),86,,2
+14,1,Undirected,selbes Amt im Amt (Bürgermeister),87,,2
+35,80,Undirected,selbes Amt im Amt (Gerichtsverwandter),88,,2
+35,89,Undirected,selbes Amt im Amt (Gerichtsverwandter),89,,2
+35,120,Undirected,selbes Amt im Amt (Gerichtsverwandter),90,,2
+35,193,Undirected,selbes Amt im Amt (Gerichtsverwandter),91,,2
+80,89,Undirected,selbes Amt im Amt (Gerichtsverwandter),92,,2
+80,120,Undirected,selbes Amt im Amt (Gerichtsverwandter),93,,2
+80,193,Undirected,selbes Amt im Amt (Gerichtsverwandter),94,,2
+89,193,Undirected,selbes Amt im Amt (Gerichtsverwandter),95,,2
+89,120,Undirected,selbes Amt im Amt (Gerichtsverwandter),96,,2
+120,193,Undirected,selbes Amt im Amt (Gerichtsverwandter),97,,2
+23,71,Undirected,selbes Amt im Amt (Schreiber),105,,2
+23,74,Undirected,selbes Amt im Amt (Schreiber),106,,2
+23,82,Undirected,selbes Amt im Amt (Schreiber),107,,2
+23,83,Undirected,selbes Amt im Amt (Schreiber),108,,2
+23,94,Undirected,selbes Amt im Amt (Schreiber),109,,2
+23,156,Undirected,selbes Amt im Amt (Schreiber),110,,2
+71,74,Undirected,selbes Amt im Amt (Schreiber),111,,2
+71,82,Undirected,selbes Amt im Amt (Schreiber),112,,2
+71,83,Undirected,selbes Amt im Amt (Schreiber),113,,2
+71,94,Undirected,selbes Amt im Amt (Schreiber),114,,2
+71,156,Undirected,selbes Amt im Amt (Schreiber),115,,2
+74,82,Undirected,selbes Amt im Amt (Schreiber),116,,2
+74,83,Undirected,selbes Amt im Amt (Schreiber),117,,2
+74,94,Undirected,selbes Amt im Amt (Schreiber),118,,2
+74,156,Undirected,selbes Amt im Amt (Schreiber),119,,2
+82,83,Undirected,selbes Amt im Amt (Schreiber),120,,2
+82,94,Undirected,selbes Amt im Amt (Schreiber),121,,2
+82,156,Undirected,selbes Amt im Amt (Schreiber),122,,2
+83,94,Undirected,selbes Amt im Amt (Schreiber),123,,2
+83,156,Undirected,selbes Amt im Amt (Schreiber),124,,2
+94,156,Undirected,selbes Amt im Amt (Schreiber),125,,2
+190,23,Undirected,selbes Amt im Amt (Schreiber),127,,2
+190,71,Undirected,selbes Amt im Amt (Schreiber),128,,2
+190,74,Undirected,selbes Amt im Amt (Schreiber),129,,2
+190,82,Undirected,selbes Amt im Amt (Schreiber),130,,2
+190,83,Undirected,selbes Amt im Amt (Schreiber),131,,2
+190,94,Undirected,selbes Amt im Amt (Schreiber),132,,2
+190,156,Undirected,selbes Amt im Amt (Schreiber),133,,2
+3,35,Undirected,selbes Amt im Amt (Gerichtsverwandter),138,,2
+3,80,Undirected,selbes Amt im Amt (Gerichtsverwandter),139,,2
+3,89,Undirected,selbes Amt im Amt (Gerichtsverwandter),140,,2
+3,120,Undirected,selbes Amt im Amt (Gerichtsverwandter),141,,2
+3,193,Undirected,selbes Amt im Amt (Gerichtsverwandter),142,,2
+15,62,Undirected,Vertreter des selben Amtsorts,160,,2
+15,79,Undirected,Vertreter des selben Amtsorts,161,,2
+15,142,Undirected,Vertreter des selben Amtsorts,162,,2
+15,143,Undirected,Vertreter des selben Amtsorts,163,,2
+15,450,Undirected,Vertreter des selben Amtsorts,164,,2
+62,79,Undirected,Vertreter des selben Amtsorts,165,,2
+62,142,Undirected,Vertreter des selben Amtsorts,166,,2
+62,143,Undirected,Vertreter des selben Amtsorts,167,,2
+62,450,Undirected,Vertreter des selben Amtsorts,168,,2
+79,142,Undirected,Vertreter des selben Amtsorts,169,,2
+79,143,Undirected,Vertreter des selben Amtsorts,170,,2
+79,450,Undirected,Vertreter des selben Amtsorts,171,,2
+142,143,Undirected,Vertreter des selben Amtsorts,172,,2
+142,450,Undirected,Vertreter des selben Amtsorts,173,,2
+143,450,Undirected,Vertreter des selben Amtsorts,174,,2
+172,420,Undirected,Vertreter des selben Amtsorts,175,,2
+4,5,Undirected,selbes Amt im Amt (Schultheis),213,,2
+4,6,Undirected,selbes Amt im Amt (Schultheis),214,,2
+4,7,Undirected,selbes Amt im Amt (Schultheis),215,,2
+4,8,Undirected,selbes Amt im Amt (Schultheis),216,,2
+4,9,Undirected,selbes Amt im Amt (Schultheis),217,,2
+4,10,Undirected,selbes Amt im Amt (Schultheis),218,,2
+4,11,Undirected,selbes Amt im Amt (Schultheis),219,,2
+4,12,Undirected,selbes Amt im Amt (Schultheis),220,,2
+4,17,Undirected,selbes Amt im Amt (Schultheis),221,,2
+4,18,Undirected,selbes Amt im Amt (Schultheis),222,,2
+4,22,Undirected,selbes Amt im Amt (Schultheis),223,,2
+4,65,Undirected,selbes Amt im Amt (Schultheis),224,,2
+4,66,Undirected,selbes Amt im Amt (Schultheis),225,,2
+4,84,Undirected,selbes Amt im Amt (Schultheis),226,,2
+4,111,Undirected,selbes Amt im Amt (Schultheis),227,,2
+4,113,Undirected,selbes Amt im Amt (Schultheis),228,,2
+4,114,Undirected,selbes Amt im Amt (Schultheis),229,,2
+4,115,Undirected,selbes Amt im Amt (Schultheis),230,,2
+4,116,Undirected,selbes Amt im Amt (Schultheis),231,,2
+4,117,Undirected,selbes Amt im Amt (Schultheis),232,,2
+4,202,Undirected,selbes Amt im Amt (Schultheis),233,,2
+4,203,Undirected,selbes Amt im Amt (Schultheis),234,,2
+4,207,Undirected,selbes Amt im Amt (Schultheis),235,,2
+4,208,Undirected,selbes Amt im Amt (Schultheis),236,,2
+5,6,Undirected,selbes Amt im Amt (Schultheis),237,,2
+5,7,Undirected,selbes Amt im Amt (Schultheis),238,,2
+5,8,Undirected,selbes Amt im Amt (Schultheis),239,,2
+5,9,Undirected,selbes Amt im Amt (Schultheis),240,,2
+5,10,Undirected,selbes Amt im Amt (Schultheis),241,,2
+5,11,Undirected,selbes Amt im Amt (Schultheis),242,,2
+5,12,Undirected,selbes Amt im Amt (Schultheis),243,,2
+5,17,Undirected,selbes Amt im Amt (Schultheis),244,,2
+5,18,Undirected,selbes Amt im Amt (Schultheis),245,,2
+5,22,Undirected,selbes Amt im Amt (Schultheis),246,,2
+5,65,Undirected,selbes Amt im Amt (Schultheis),247,,2
+5,66,Undirected,selbes Amt im Amt (Schultheis),248,,2
+5,84,Undirected,selbes Amt im Amt (Schultheis),249,,2
+5,111,Undirected,selbes Amt im Amt (Schultheis),250,,2
+5,113,Undirected,selbes Amt im Amt (Schultheis),251,,2
+5,114,Undirected,selbes Amt im Amt (Schultheis),252,,2
+5,115,Undirected,selbes Amt im Amt (Schultheis),253,,2
+5,116,Undirected,selbes Amt im Amt (Schultheis),254,,2
+5,117,Undirected,selbes Amt im Amt (Schultheis),255,,2
+5,202,Undirected,selbes Amt im Amt (Schultheis),256,,2
+5,203,Undirected,selbes Amt im Amt (Schultheis),257,,2
+5,207,Undirected,selbes Amt im Amt (Schultheis),258,,2
+5,208,Undirected,selbes Amt im Amt (Schultheis),259,,2
+6,7,Undirected,selbes Amt im Amt (Schultheis),260,,2
+6,8,Undirected,selbes Amt im Amt (Schultheis),261,,2
+6,9,Undirected,selbes Amt im Amt (Schultheis),262,,2
+6,10,Undirected,selbes Amt im Amt (Schultheis),263,,2
+6,11,Undirected,selbes Amt im Amt (Schultheis),264,,2
+6,12,Undirected,selbes Amt im Amt (Schultheis),265,,2
+6,17,Undirected,selbes Amt im Amt (Schultheis),266,,2
+6,18,Undirected,selbes Amt im Amt (Schultheis),267,,2
+6,22,Undirected,selbes Amt im Amt (Schultheis),268,,2
+6,65,Undirected,selbes Amt im Amt (Schultheis),269,,2
+6,66,Undirected,selbes Amt im Amt (Schultheis),270,,2
+6,84,Undirected,selbes Amt im Amt (Schultheis),271,,2
+6,111,Undirected,selbes Amt im Amt (Schultheis),272,,2
+6,113,Undirected,selbes Amt im Amt (Schultheis),273,,2
+6,114,Undirected,selbes Amt im Amt (Schultheis),274,,2
+6,115,Undirected,selbes Amt im Amt (Schultheis),275,,2
+6,116,Undirected,selbes Amt im Amt (Schultheis),276,,2
+6,117,Undirected,selbes Amt im Amt (Schultheis),277,,2
+6,202,Undirected,selbes Amt im Amt (Schultheis),278,,2
+6,203,Undirected,selbes Amt im Amt (Schultheis),279,,2
+6,207,Undirected,selbes Amt im Amt (Schultheis),280,,2
+6,208,Undirected,selbes Amt im Amt (Schultheis),281,,2
+7,8,Undirected,selbes Amt im Amt (Schultheis),282,,2
+7,9,Undirected,selbes Amt im Amt (Schultheis),283,,2
+7,10,Undirected,selbes Amt im Amt (Schultheis),284,,2
+7,11,Undirected,selbes Amt im Amt (Schultheis),285,,2
+7,12,Undirected,selbes Amt im Amt (Schultheis),286,,2
+7,17,Undirected,selbes Amt im Amt (Schultheis),287,,2
+7,18,Undirected,selbes Amt im Amt (Schultheis),288,,2
+7,22,Undirected,selbes Amt im Amt (Schultheis),289,,2
+7,65,Undirected,selbes Amt im Amt (Schultheis),290,,2
+7,66,Undirected,selbes Amt im Amt (Schultheis),291,,2
+7,84,Undirected,selbes Amt im Amt (Schultheis),292,,2
+7,111,Undirected,selbes Amt im Amt (Schultheis),293,,2
+7,113,Undirected,selbes Amt im Amt (Schultheis),294,,2
+7,114,Undirected,selbes Amt im Amt (Schultheis),295,,2
+7,115,Undirected,selbes Amt im Amt (Schultheis),296,,2
+7,116,Undirected,selbes Amt im Amt (Schultheis),297,,2
+7,117,Undirected,selbes Amt im Amt (Schultheis),298,,2
+7,202,Undirected,selbes Amt im Amt (Schultheis),299,,2
+7,203,Undirected,selbes Amt im Amt (Schultheis),300,,2
+7,207,Undirected,selbes Amt im Amt (Schultheis),301,,2
+7,208,Undirected,selbes Amt im Amt (Schultheis),302,,2
+8,9,Undirected,selbes Amt im Amt (Schultheis),303,,2
+8,10,Undirected,selbes Amt im Amt (Schultheis),304,,2
+8,11,Undirected,selbes Amt im Amt (Schultheis),305,,2
+8,12,Undirected,selbes Amt im Amt (Schultheis),306,,2
+8,17,Undirected,selbes Amt im Amt (Schultheis),307,,2
+8,18,Undirected,selbes Amt im Amt (Schultheis),308,,2
+8,22,Undirected,selbes Amt im Amt (Schultheis),309,,2
+8,65,Undirected,selbes Amt im Amt (Schultheis),310,,2
+8,66,Undirected,selbes Amt im Amt (Schultheis),311,,2
+8,84,Undirected,selbes Amt im Amt (Schultheis),312,,2
+8,111,Undirected,selbes Amt im Amt (Schultheis),313,,2
+8,113,Undirected,selbes Amt im Amt (Schultheis),314,,2
+8,114,Undirected,selbes Amt im Amt (Schultheis),315,,2
+8,115,Undirected,selbes Amt im Amt (Schultheis),316,,2
+8,116,Undirected,selbes Amt im Amt (Schultheis),317,,2
+8,117,Undirected,selbes Amt im Amt (Schultheis),318,,2
+8,202,Undirected,selbes Amt im Amt (Schultheis),319,,2
+8,203,Undirected,selbes Amt im Amt (Schultheis),320,,2
+8,207,Undirected,selbes Amt im Amt (Schultheis),321,,2
+8,208,Undirected,selbes Amt im Amt (Schultheis),322,,2
+9,10,Undirected,selbes Amt im Amt (Schultheis),323,,2
+9,11,Undirected,selbes Amt im Amt (Schultheis),324,,2
+9,12,Undirected,selbes Amt im Amt (Schultheis),325,,2
+9,17,Undirected,selbes Amt im Amt (Schultheis),326,,2
+9,18,Undirected,selbes Amt im Amt (Schultheis),327,,2
+9,22,Undirected,selbes Amt im Amt (Schultheis),328,,2
+9,65,Undirected,selbes Amt im Amt (Schultheis),329,,2
+9,66,Undirected,selbes Amt im Amt (Schultheis),330,,2
+9,84,Undirected,selbes Amt im Amt (Schultheis),331,,2
+9,111,Undirected,selbes Amt im Amt (Schultheis),332,,2
+9,113,Undirected,selbes Amt im Amt (Schultheis),333,,2
+9,114,Undirected,selbes Amt im Amt (Schultheis),334,,2
+9,115,Undirected,selbes Amt im Amt (Schultheis),335,,2
+9,116,Undirected,selbes Amt im Amt (Schultheis),336,,2
+9,117,Undirected,selbes Amt im Amt (Schultheis),337,,2
+9,202,Undirected,selbes Amt im Amt (Schultheis),338,,2
+9,203,Undirected,selbes Amt im Amt (Schultheis),339,,2
+9,207,Undirected,selbes Amt im Amt (Schultheis),340,,2
+9,208,Undirected,selbes Amt im Amt (Schultheis),341,,2
+10,11,Undirected,selbes Amt im Amt (Schultheis),342,,2
+10,12,Undirected,selbes Amt im Amt (Schultheis),343,,2
+10,17,Undirected,selbes Amt im Amt (Schultheis),344,,2
+10,18,Undirected,selbes Amt im Amt (Schultheis),345,,2
+10,22,Undirected,selbes Amt im Amt (Schultheis),346,,2
+10,65,Undirected,selbes Amt im Amt (Schultheis),347,,2
+10,66,Undirected,selbes Amt im Amt (Schultheis),348,,2
+10,84,Undirected,selbes Amt im Amt (Schultheis),349,,2
+10,111,Undirected,selbes Amt im Amt (Schultheis),350,,2
+10,113,Undirected,selbes Amt im Amt (Schultheis),351,,2
+10,114,Undirected,selbes Amt im Amt (Schultheis),352,,2
+10,115,Undirected,selbes Amt im Amt (Schultheis),353,,2
+10,116,Undirected,selbes Amt im Amt (Schultheis),354,,2
+10,117,Undirected,selbes Amt im Amt (Schultheis),355,,2
+10,202,Undirected,selbes Amt im Amt (Schultheis),356,,2
+10,203,Undirected,selbes Amt im Amt (Schultheis),357,,2
+10,207,Undirected,selbes Amt im Amt (Schultheis),358,,2
+10,208,Undirected,selbes Amt im Amt (Schultheis),359,,2
+11,12,Undirected,selbes Amt im Amt (Schultheis),360,,2
+11,17,Undirected,selbes Amt im Amt (Schultheis),361,,2
+11,18,Undirected,selbes Amt im Amt (Schultheis),362,,2
+11,22,Undirected,selbes Amt im Amt (Schultheis),363,,2
+11,65,Undirected,selbes Amt im Amt (Schultheis),364,,2
+11,66,Undirected,selbes Amt im Amt (Schultheis),365,,2
+11,84,Undirected,selbes Amt im Amt (Schultheis),366,,2
+11,111,Undirected,selbes Amt im Amt (Schultheis),367,,2
+11,113,Undirected,selbes Amt im Amt (Schultheis),369,,2
+11,114,Undirected,selbes Amt im Amt (Schultheis),370,,2
+11,115,Undirected,selbes Amt im Amt (Schultheis),371,,2
+11,116,Undirected,selbes Amt im Amt (Schultheis),372,,2
+11,117,Undirected,selbes Amt im Amt (Schultheis),373,,2
+11,202,Undirected,selbes Amt im Amt (Schultheis),374,,2
+11,203,Undirected,selbes Amt im Amt (Schultheis),375,,2
+11,207,Undirected,selbes Amt im Amt (Schultheis),376,,2
+11,208,Undirected,selbes Amt im Amt (Schultheis),377,,2
+12,17,Undirected,selbes Amt im Amt (Schultheis),378,,2
+12,18,Undirected,selbes Amt im Amt (Schultheis),379,,2
+12,22,Undirected,selbes Amt im Amt (Schultheis),380,,2
+12,65,Undirected,selbes Amt im Amt (Schultheis),381,,2
+12,66,Undirected,selbes Amt im Amt (Schultheis),382,,2
+12,84,Undirected,selbes Amt im Amt (Schultheis),383,,2
+12,111,Undirected,selbes Amt im Amt (Schultheis),384,,2
+12,113,Undirected,selbes Amt im Amt (Schultheis),385,,2
+12,114,Undirected,selbes Amt im Amt (Schultheis),386,,2
+12,115,Undirected,selbes Amt im Amt (Schultheis),387,,2
+12,116,Undirected,selbes Amt im Amt (Schultheis),388,,2
+12,117,Undirected,selbes Amt im Amt (Schultheis),389,,2
+12,202,Undirected,selbes Amt im Amt (Schultheis),390,,2
+12,203,Undirected,selbes Amt im Amt (Schultheis),391,,2
+12,207,Undirected,selbes Amt im Amt (Schultheis),392,,2
+12,208,Undirected,selbes Amt im Amt (Schultheis),393,,2
+17,18,Undirected,selbes Amt im Amt (Schultheis),394,,2
+17,22,Undirected,selbes Amt im Amt (Schultheis),395,,2
+17,65,Undirected,selbes Amt im Amt (Schultheis),396,,2
+17,66,Undirected,selbes Amt im Amt (Schultheis),397,,2
+17,84,Undirected,selbes Amt im Amt (Schultheis),398,,2
+17,111,Undirected,selbes Amt im Amt (Schultheis),399,,2
+17,113,Undirected,selbes Amt im Amt (Schultheis),400,,2
+17,114,Undirected,selbes Amt im Amt (Schultheis),401,,2
+17,115,Undirected,selbes Amt im Amt (Schultheis),402,,2
+17,116,Undirected,selbes Amt im Amt (Schultheis),403,,2
+17,117,Undirected,selbes Amt im Amt (Schultheis),404,,2
+17,202,Undirected,selbes Amt im Amt (Schultheis),405,,2
+17,203,Undirected,selbes Amt im Amt (Schultheis),406,,2
+17,207,Undirected,selbes Amt im Amt (Schultheis),407,,2
+17,208,Undirected,selbes Amt im Amt (Schultheis),408,,2
+18,22,Undirected,selbes Amt im Amt (Schultheis),409,,2
+18,65,Undirected,selbes Amt im Amt (Schultheis),410,,2
+18,66,Undirected,selbes Amt im Amt (Schultheis),411,,2
+18,84,Undirected,selbes Amt im Amt (Schultheis),412,,2
+18,111,Undirected,selbes Amt im Amt (Schultheis),413,,2
+18,113,Undirected,selbes Amt im Amt (Schultheis),414,,2
+18,114,Undirected,selbes Amt im Amt (Schultheis),415,,2
+18,115,Undirected,selbes Amt im Amt (Schultheis),416,,2
+18,116,Undirected,selbes Amt im Amt (Schultheis),417,,2
+18,117,Undirected,selbes Amt im Amt (Schultheis),418,,2
+18,202,Undirected,selbes Amt im Amt (Schultheis),419,,2
+18,203,Undirected,selbes Amt im Amt (Schultheis),420,,2
+18,207,Undirected,selbes Amt im Amt (Schultheis),421,,2
+18,208,Undirected,selbes Amt im Amt (Schultheis),422,,2
+22,65,Undirected,selbes Amt im Amt (Schultheis),423,,2
+22,66,Undirected,selbes Amt im Amt (Schultheis),424,,2
+22,84,Undirected,selbes Amt im Amt (Schultheis),425,,2
+22,111,Undirected,selbes Amt im Amt (Schultheis),426,,2
+22,113,Undirected,selbes Amt im Amt (Schultheis),427,,2
+22,114,Undirected,selbes Amt im Amt (Schultheis),428,,2
+22,115,Undirected,selbes Amt im Amt (Schultheis),429,,2
+22,116,Undirected,selbes Amt im Amt (Schultheis),430,,2
+22,117,Undirected,selbes Amt im Amt (Schultheis),431,,2
+22,202,Undirected,selbes Amt im Amt (Schultheis),432,,2
+22,203,Undirected,selbes Amt im Amt (Schultheis),433,,2
+22,207,Undirected,selbes Amt im Amt (Schultheis),434,,2
+22,208,Undirected,selbes Amt im Amt (Schultheis),435,,2
+65,208,Undirected,selbes Amt im Amt (Schultheis),436,,2
+65,66,Undirected,selbes Amt im Amt (Schultheis),437,,2
+65,84,Undirected,selbes Amt im Amt (Schultheis),438,,2
+65,111,Undirected,selbes Amt im Amt (Schultheis),439,,2
+65,113,Undirected,selbes Amt im Amt (Schultheis),440,,2
+65,114,Undirected,selbes Amt im Amt (Schultheis),441,,2
+65,115,Undirected,selbes Amt im Amt (Schultheis),442,,2
+65,116,Undirected,selbes Amt im Amt (Schultheis),443,,2
+65,117,Undirected,selbes Amt im Amt (Schultheis),444,,2
+65,202,Undirected,selbes Amt im Amt (Schultheis),445,,2
+65,203,Undirected,selbes Amt im Amt (Schultheis),446,,2
+65,207,Undirected,selbes Amt im Amt (Schultheis),447,,2
+66,84,Undirected,selbes Amt im Amt (Schultheis),448,,2
+66,111,Undirected,selbes Amt im Amt (Schultheis),449,,2
+66,113,Undirected,selbes Amt im Amt (Schultheis),450,,2
+66,114,Undirected,selbes Amt im Amt (Schultheis),451,,2
+66,115,Undirected,selbes Amt im Amt (Schultheis),452,,2
+66,116,Undirected,selbes Amt im Amt (Schultheis),453,,2
+66,117,Undirected,selbes Amt im Amt (Schultheis),454,,2
+66,202,Undirected,selbes Amt im Amt (Schultheis),455,,2
+66,203,Undirected,selbes Amt im Amt (Schultheis),456,,2
+66,207,Undirected,selbes Amt im Amt (Schultheis),457,,2
+66,208,Undirected,selbes Amt im Amt (Schultheis),458,,2
+84,111,Undirected,selbes Amt im Amt (Schultheis),459,,2
+84,113,Undirected,selbes Amt im Amt (Schultheis),460,,2
+84,114,Undirected,selbes Amt im Amt (Schultheis),461,,2
+84,115,Undirected,selbes Amt im Amt (Schultheis),462,,2
+84,116,Undirected,selbes Amt im Amt (Schultheis),463,,2
+84,117,Undirected,selbes Amt im Amt (Schultheis),464,,2
+84,202,Undirected,selbes Amt im Amt (Schultheis),465,,2
+84,203,Undirected,selbes Amt im Amt (Schultheis),466,,2
+84,207,Undirected,selbes Amt im Amt (Schultheis),467,,2
+84,208,Undirected,selbes Amt im Amt (Schultheis),468,,2
+111,113,Undirected,selbes Amt im Amt (Schultheis),469,,2
+111,114,Undirected,selbes Amt im Amt (Schultheis),470,,2
+111,115,Undirected,selbes Amt im Amt (Schultheis),471,,2
+111,116,Undirected,selbes Amt im Amt (Schultheis),472,,2
+111,117,Undirected,selbes Amt im Amt (Schultheis),473,,2
+111,202,Undirected,selbes Amt im Amt (Schultheis),474,,2
+111,203,Undirected,selbes Amt im Amt (Schultheis),475,,2
+111,207,Undirected,selbes Amt im Amt (Schultheis),476,,2
+111,208,Undirected,selbes Amt im Amt (Schultheis),477,,2
+113,114,Undirected,selbes Amt im Amt (Schultheis),478,,2
+113,115,Undirected,selbes Amt im Amt (Schultheis),479,,2
+113,116,Undirected,selbes Amt im Amt (Schultheis),480,,2
+113,117,Undirected,selbes Amt im Amt (Schultheis),481,,2
+113,202,Undirected,selbes Amt im Amt (Schultheis),482,,2
+113,203,Undirected,selbes Amt im Amt (Schultheis),483,,2
+113,207,Undirected,selbes Amt im Amt (Schultheis),484,,2
+113,208,Undirected,selbes Amt im Amt (Schultheis),485,,2
+114,115,Undirected,selbes Amt im Amt (Schultheis),486,,2
+114,116,Undirected,selbes Amt im Amt (Schultheis),487,,2
+114,117,Undirected,selbes Amt im Amt (Schultheis),488,,2
+114,202,Undirected,selbes Amt im Amt (Schultheis),489,,2
+114,203,Undirected,selbes Amt im Amt (Schultheis),490,,2
+114,207,Undirected,selbes Amt im Amt (Schultheis),491,,2
+114,208,Undirected,selbes Amt im Amt (Schultheis),492,,2
+115,116,Undirected,selbes Amt im Amt (Schultheis),493,,2
+115,117,Undirected,selbes Amt im Amt (Schultheis),494,,2
+115,202,Undirected,selbes Amt im Amt (Schultheis),495,,2
+115,203,Undirected,selbes Amt im Amt (Schultheis),496,,2
+115,207,Undirected,selbes Amt im Amt (Schultheis),497,,2
+115,208,Undirected,selbes Amt im Amt (Schultheis),498,,2
+116,117,Undirected,selbes Amt im Amt (Schultheis),499,,2
+116,202,Undirected,selbes Amt im Amt (Schultheis),500,,2
+116,203,Undirected,selbes Amt im Amt (Schultheis),501,,2
+116,207,Undirected,selbes Amt im Amt (Schultheis),502,,2
+116,208,Undirected,selbes Amt im Amt (Schultheis),503,,2
+117,202,Undirected,selbes Amt im Amt (Schultheis),504,,2
+117,203,Undirected,selbes Amt im Amt (Schultheis),505,,2
+117,207,Undirected,selbes Amt im Amt (Schultheis),506,,2
+117,208,Undirected,selbes Amt im Amt (Schultheis),507,,2
+202,203,Undirected,selbes Amt im Amt (Schultheis),508,,2
+202,207,Undirected,selbes Amt im Amt (Schultheis),509,,2
+202,208,Undirected,selbes Amt im Amt (Schultheis),510,,2
+203,207,Undirected,selbes Amt im Amt (Schultheis),511,,2
+203,208,Undirected,selbes Amt im Amt (Schultheis),512,,2
+207,208,Undirected,selbes Amt im Amt (Schultheis),513,,2
+58,59,Undirected,Familienverhältnis,514,,5
+76,138,Undirected,selber Beruf,578,,1
+76,138,Undirected,selber Beruf,579,,1
+123,146,Undirected,selber Beruf,580,,1
+123,177,Undirected,selber Beruf,581,,1
+146,177,Undirected,selber Beruf,582,,1
+176,209,Undirected,selber Beruf,583,,1
+95,96,Undirected,selber Beruf,584,,1
+32,137,Undirected,selber Beruf,585,,1
+82,156,Undirected,selber Beruf,586,,1
+82,23,Undirected,selber Beruf,587,,1
+82,190,Undirected,selber Beruf,588,,1
+82,192,Undirected,selber Beruf,589,,1
+82,71,Undirected,selber Beruf,590,,1
+82,74,Undirected,selber Beruf,591,,1
+82,83,Undirected,selber Beruf,592,,1
+82,94,Undirected,selber Beruf,593,,1
+156,190,Undirected,selber Beruf,594,,1
+156,192,Undirected,selber Beruf,595,,1
+156,23,Undirected,selber Beruf,596,,1
+156,71,Undirected,selber Beruf,597,,1
+156,74,Undirected,selber Beruf,598,,1
+156,83,Undirected,selber Beruf,599,,1
+156,94,Undirected,selber Beruf,600,,1
+190,192,Undirected,selber Beruf,601,,1
+190,23,Undirected,selber Beruf,602,,1
+190,71,Undirected,selber Beruf,603,,1
+190,74,Undirected,selber Beruf,604,,1
+190,83,Undirected,selber Beruf,605,,1
+190,94,Undirected,selber Beruf,606,,1
+192,23,Undirected,selber Beruf,607,,1
+192,71,Undirected,selber Beruf,608,,1
+192,74,Undirected,selber Beruf,609,,1
+192,83,Undirected,selber Beruf,610,,1
+192,94,Undirected,selber Beruf,611,,1
+23,71,Undirected,selber Beruf,612,,1
+23,74,Undirected,selber Beruf,613,,1
+23,83,Undirected,selber Beruf,614,,1
+23,94,Undirected,selber Beruf,615,,1
+71,74,Undirected,selber Beruf,616,,1
+71,83,Undirected,selber Beruf,617,,1
+71,94,Undirected,selber Beruf,618,,1
+74,83,Undirected,selber Beruf,619,,1
+74,94,Undirected,selber Beruf,620,,1
+83,94,Undirected,selber Beruf,621,,1
+170,218,Undirected,selber Beruf,622,,1
+98,198,Undirected,selber Beruf,626,,1
+98,99,Undirected,selber Beruf,627,,1
+99,198,Undirected,selber Beruf,628,,1
+153,301,Undirected,selber Beruf,629,,1
+205,206,Undirected,selber Beruf,630,,1
+13,183,Undirected,selber Beruf,631,,1
+13,228,Undirected,selber Beruf,632,,1
+183,228,Undirected,selber Beruf,633,,1
+139,181,Undirected,selber Beruf,634,,1
+161,199,Undirected,selber Beruf,635,,1
+161,200,Undirected,selber Beruf,636,,1
+199,200,Undirected,selber Beruf,637,,1
+118,214,Undirected,selber Beruf,638,,1
+118,223,Undirected,selber Beruf,639,,1
+214,223,Undirected,selber Beruf,640,,1
+133,220,Undirected,selber Beruf,641,,1
+159,163,Undirected,selber Beruf,642,,1
+159,167,Undirected,selber Beruf,643,,1
+159,184,Undirected,selber Beruf,644,,1
+159,231,Undirected,selber Beruf,645,,1
+159,273,Undirected,selber Beruf,646,,1
+159,275,Undirected,selber Beruf,647,,1
+163,167,Undirected,selber Beruf,648,,1
+163,184,Undirected,selber Beruf,649,,1
+163,231,Undirected,selber Beruf,650,,1
+163,273,Undirected,selber Beruf,651,,1
+163,275,Undirected,selber Beruf,652,,1
+167,184,Undirected,selber Beruf,653,,1
+167,231,Undirected,selber Beruf,654,,1
+167,273,Undirected,selber Beruf,655,,1
+167,275,Undirected,selber Beruf,656,,1
+184,231,Undirected,selber Beruf,657,,1
+184,273,Undirected,selber Beruf,658,,1
+184,275,Undirected,selber Beruf,659,,1
+231,273,Undirected,selber Beruf,660,,1
+231,275,Undirected,selber Beruf,661,,1
+273,275,Undirected,selber Beruf,662,,1
+424,471,Directed,"""Wohnort""",665,,1
+118,471,Directed,"""Wohnort""",666,,1
+213,471,Directed,"""Wohnort""",667,,1
+228,471,Directed,"""Wohnort""",668,,1
+168,472,Directed,"""Wohnort""",675,,1
+423,424,Undirected,"selber ""Wohnort""",677,,2
+423,118,Undirected,"selber ""Wohnort""",678,,2
+423,213,Undirected,"selber ""Wohnort""",679,,2
+423,228,Undirected,"selber ""Wohnort""",680,,2
+424,118,Undirected,"selber ""Wohnort""",681,,2
+424,213,Undirected,"selber ""Wohnort""",682,,2
+424,228,Undirected,"selber ""Wohnort""",683,,2
+118,213,Undirected,"selber ""Wohnort""",684,,2
+118,228,Undirected,"selber ""Wohnort""",685,,2
+213,228,Undirected,"selber ""Wohnort""",686,,2
+94,472,Directed,"""Wohnort""",687,,1
+216,472,Directed,"""Wohnort""",688,,1
+217,472,Directed,"""Wohnort""",689,,1
+422,472,Directed,"""Wohnort""",690,,1
+422,168,Undirected,"selber ""Wohnort""",691,,2
+422,94,Undirected,"selber ""Wohnort""",692,,2
+422,216,Undirected,"selber ""Wohnort""",693,,2
+422,217,Undirected,"selber ""Wohnort""",694,,2
+168,94,Undirected,"selber ""Wohnort""",695,,2
+168,216,Undirected,"selber ""Wohnort""",696,,2
+168,217,Undirected,"selber ""Wohnort""",697,,2
+94,216,Undirected,"selber ""Wohnort""",698,,2
+94,217,Undirected,"selber ""Wohnort""",699,,2
+216,217,Undirected,"selber ""Wohnort""",700,,2
+96,473,Directed,"""Wohnort""",701,,1
+125,473,Directed,"""Wohnort""",702,,1
+126,473,Directed,"""Wohnort""",703,,1
+157,473,Directed,"""Wohnort""",704,,1
+200,473,Directed,"""Wohnort""",705,,1
+206,474,Directed,"""Wohnort""",706,,1
+418,474,Directed,"""Wohnort""",707,,1
+96,125,Undirected,"selber ""Wohnort""",708,,2
+96,126,Undirected,"selber ""Wohnort""",709,,2
+96,157,Undirected,"selber ""Wohnort""",710,,2
+96,200,Undirected,"selber ""Wohnort""",711,,2
+125,126,Undirected,"selber ""Wohnort""",712,,2
+125,157,Undirected,"selber ""Wohnort""",713,,2
+125,200,Undirected,"selber ""Wohnort""",714,,2
+126,157,Undirected,"selber ""Wohnort""",715,,2
+126,200,Undirected,"selber ""Wohnort""",716,,2
+157,200,Undirected,"selber ""Wohnort""",717,,2
+206,418,Undirected,"selber ""Wohnort""",718,,2
+12,457,Directed,"""Wohnort""",734,,1
+22,457,Directed,"""Wohnort""",735,,1
+12,22,Undirected,"selber ""Wohnort""",739,,3
+14,458,Directed,"""Wohnort""",749,,1
+45,458,Directed,"""Wohnort""",750,,1
+137,458,Directed,"""Wohnort""",751,,1
+181,458,Directed,"""Wohnort""",752,,1
+225,458,Directed,"""Wohnort""",753,,1
+301,315,Undirected,"selber ""Wohnort""",923,,3
+301,458,Directed,"""Wohnort""",768,,1
+307,458,Directed,"""Wohnort""",772,,1
+315,458,Directed,"""Wohnort""",779,,1
+14,45,Undirected,"selber ""Wohnort""",784,,3
+14,137,Undirected,"selber ""Wohnort""",785,,3
+14,181,Undirected,"selber ""Wohnort""",786,,3
+14,225,Undirected,"selber ""Wohnort""",787,,3
+307,315,Undirected,"selber ""Wohnort""",924,,3
+225,301,Undirected,"selber ""Wohnort""",919,,3
+14,301,Undirected,"selber ""Wohnort""",802,,3
+14,307,Undirected,"selber ""Wohnort""",806,,3
+14,315,Undirected,"selber ""Wohnort""",814,,3
+45,137,Undirected,"selber ""Wohnort""",819,,3
+45,181,Undirected,"selber ""Wohnort""",820,,3
+45,225,Undirected,"selber ""Wohnort""",821,,3
+8,459,Directed,"""Wohnort""",925,,1
+225,307,Undirected,"selber ""Wohnort""",920,,3
+45,301,Undirected,"selber ""Wohnort""",836,,3
+45,307,Undirected,"selber ""Wohnort""",840,,3
+45,315,Undirected,"selber ""Wohnort""",848,,3
+137,181,Undirected,"selber ""Wohnort""",853,,3
+137,225,Undirected,"selber ""Wohnort""",854,,3
+39,459,Directed,"""Wohnort""",926,,1
+225,315,Undirected,"selber ""Wohnort""",921,,3
+137,301,Undirected,"selber ""Wohnort""",869,,3
+137,307,Undirected,"selber ""Wohnort""",873,,3
+137,315,Undirected,"selber ""Wohnort""",881,,3
+181,225,Undirected,"selber ""Wohnort""",886,,3
+114,459,Directed,"""Wohnort""",927,,1
+301,307,Undirected,"selber ""Wohnort""",922,,3
+181,301,Undirected,"selber ""Wohnort""",902,,3
+181,307,Undirected,"selber ""Wohnort""",906,,3
+181,315,Undirected,"selber ""Wohnort""",914,,3
+8,39,Undirected,"selber ""Wohnort""",928,,3
+8,114,Undirected,"selber ""Wohnort""",929,,3
+39,114,Undirected,"selber ""Wohnort""",930,,3
+17,460,Directed,"""Wohnort""",931,,1
+90,460,Directed,"""Wohnort""",932,,1
+230,460,Directed,"""Wohnort""",933,,1
+17,90,Undirected,"selber ""Wohnort""",934,,3
+17,230,Undirected,"selber ""Wohnort""",935,,3
+90,230,Undirected,"selber ""Wohnort""",936,,3
+11,461,Directed,"""Wohnort""",937,,1
+115,461,Directed,"""Wohnort""",938,,1
+11,115,Undirected,"selber ""Wohnort""",939,,3
+18,462,Directed,"""Wohnort""",940,,1
+116,462,Directed,"""Wohnort""",941,,1
+172,462,Directed,"""Wohnort""",942,,1
+420,462,Directed,"""Wohnort""",943,,1
+449,462,Directed,"""Wohnort""",944,,1
+18,116,Undirected,"selber ""Wohnort""",945,,3
+18,172,Undirected,"selber ""Wohnort""",946,,3
+18,420,Undirected,"selber ""Wohnort""",947,,3
+18,449,Undirected,"selber ""Wohnort""",948,,3
+116,172,Undirected,"selber ""Wohnort""",949,,3
+116,420,Undirected,"selber ""Wohnort""",950,,3
+116,449,Undirected,"selber ""Wohnort""",951,,3
+172,420,Undirected,"selber ""Wohnort""",952,,3
+172,449,Undirected,"selber ""Wohnort""",953,,3
+420,449,Undirected,"selber ""Wohnort""",954,,3
+93,463,Directed,"""Wohnort""",955,,1
+209,463,Directed,"""Wohnort""",956,,1
+210,463,Directed,"""Wohnort""",957,,1
+93,209,Undirected,"selber ""Wohnort""",958,,3
+93,210,Undirected,"selber ""Wohnort""",959,,3
+209,210,Undirected,"selber ""Wohnort""",960,,3
+7,464,Directed,"""Wohnort""",961,,1
+65,464,Directed,"""Wohnort""",962,,1
+195,464,Directed,"""Wohnort""",963,,1
+207,464,Directed,"""Wohnort""",964,,1
+84,465,Directed,"""Wohnort""",965,,1
+87,465,Directed,"""Wohnort""",966,,1
+285,465,Directed,"""Wohnort""",967,,1
+6,466,Directed,"""Wohnort""",968,,1
+175,466,Directed,"""Wohnort""",969,,1
+211,466,Directed,"""Wohnort""",970,,1
+220,466,Directed,"""Wohnort""",971,,1
+5,467,Directed,"""Wohnort""",972,,1
+15,467,Directed,"""Wohnort""",973,,1
+62,467,Directed,"""Wohnort""",974,,1
+66,467,Directed,"""Wohnort""",975,,1
+79,467,Directed,"""Wohnort""",976,,1
+142,467,Directed,"""Wohnort""",977,,1
+143,467,Directed,"""Wohnort""",978,,1
+221,467,Directed,"""Wohnort""",979,,1
+450,467,Directed,"""Wohnort""",980,,1
+9,468,Directed,"""Wohnort""",981,,1
+91,468,Directed,"""Wohnort""",982,,1
+194,468,Directed,"""Wohnort""",983,,1
+208,468,Directed,"""Wohnort""",984,,1
+269,468,Directed,"""Wohnort""",985,,1
+408,468,Directed,"""Wohnort""",986,,1
+409,468,Directed,"""Wohnort""",987,,1
+4,469,Directed,"""Wohnort""",988,,1
+21,469,Directed,"""Wohnort""",989,,1
+47,469,Directed,"""Wohnort""",990,,1
+215,469,Directed,"""Wohnort""",991,,1
+226,469,Directed,"""Wohnort""",992,,1
+278,469,Directed,"""Wohnort""",993,,1
+425,469,Directed,"""Wohnort""",994,,1
+451,469,Directed,"""Wohnort""",995,,1
+452,469,Directed,"""Wohnort""",996,,1
+10,470,Directed,"""Wohnort""",997,,1
+117,470,Directed,"""Wohnort""",998,,1
+212,470,Directed,"""Wohnort""",999,,1
+280,470,Directed,"""Wohnort""",1000,,1
+7,65,Undirected,"selber ""Wohnort""",1001,,3
+7,195,Undirected,"selber ""Wohnort""",1002,,3
+7,207,Undirected,"selber ""Wohnort""",1003,,3
+65,195,Undirected,"selber ""Wohnort""",1004,,3
+65,207,Undirected,"selber ""Wohnort""",1005,,3
+195,207,Undirected,"selber ""Wohnort""",1006,,3
+84,87,Undirected,"selber ""Wohnort""",1007,,3
+84,285,Undirected,"selber ""Wohnort""",1008,,3
+87,285,Undirected,"selber ""Wohnort""",1009,,3
+6,175,Undirected,"selber ""Wohnort""",1010,,3
+6,211,Undirected,"selber ""Wohnort""",1011,,3
+6,220,Undirected,"selber ""Wohnort""",1012,,3
+175,211,Undirected,"selber ""Wohnort""",1013,,3
+175,220,Undirected,"selber ""Wohnort""",1014,,3
+211,220,Undirected,"selber ""Wohnort""",1015,,3
+10,117,Undirected,"selber ""Wohnort""",1016,,3
+10,212,Undirected,"selber ""Wohnort""",1017,,3
+10,280,Undirected,"selber ""Wohnort""",1018,,3
+117,212,Undirected,"selber ""Wohnort""",1019,,3
+117,280,Undirected,"selber ""Wohnort""",1020,,3
+212,280,Undirected,"selber ""Wohnort""",1021,,3
+5,15,Undirected,"selber ""Wohnort""",1022,,3
+5,62,Undirected,"selber ""Wohnort""",1023,,3
+5,66,Undirected,"selber ""Wohnort""",1024,,3
+5,79,Undirected,"selber ""Wohnort""",1025,,3
+5,142,Undirected,"selber ""Wohnort""",1026,,3
+5,143,Undirected,"selber ""Wohnort""",1027,,3
+5,221,Undirected,"selber ""Wohnort""",1028,,3
+5,450,Undirected,"selber ""Wohnort""",1029,,3
+15,62,Undirected,"selber ""Wohnort""",1030,,3
+15,66,Undirected,"selber ""Wohnort""",1031,,3
+15,79,Undirected,"selber ""Wohnort""",1032,,3
+15,142,Undirected,"selber ""Wohnort""",1033,,3
+15,143,Undirected,"selber ""Wohnort""",1034,,3
+15,221,Undirected,"selber ""Wohnort""",1035,,3
+15,450,Undirected,"selber ""Wohnort""",1036,,3
+62,66,Undirected,"selber ""Wohnort""",1037,,3
+62,79,Undirected,"selber ""Wohnort""",1038,,3
+62,142,Undirected,"selber ""Wohnort""",1039,,3
+62,143,Undirected,"selber ""Wohnort""",1040,,3
+62,221,Undirected,"selber ""Wohnort""",1041,,3
+62,450,Undirected,"selber ""Wohnort""",1042,,3
+66,79,Undirected,"selber ""Wohnort""",1043,,3
+66,142,Undirected,"selber ""Wohnort""",1044,,3
+66,143,Undirected,"selber ""Wohnort""",1045,,3
+66,221,Undirected,"selber ""Wohnort""",1046,,3
+66,450,Undirected,"selber ""Wohnort""",1047,,3
+79,142,Undirected,"selber ""Wohnort""",1048,,3
+79,143,Undirected,"selber ""Wohnort""",1049,,3
+79,221,Undirected,"selber ""Wohnort""",1050,,3
+79,450,Undirected,"selber ""Wohnort""",1051,,3
+142,143,Undirected,"selber ""Wohnort""",1052,,3
+142,221,Undirected,"selber ""Wohnort""",1053,,3
+142,450,Undirected,"selber ""Wohnort""",1054,,3
+143,221,Undirected,"selber ""Wohnort""",1055,,3
+143,450,Undirected,"selber ""Wohnort""",1056,,3
+221,450,Undirected,"selber ""Wohnort""",1057,,3
+9,91,Undirected,"selber ""Wohnort""",1058,,3
+9,194,Undirected,"selber ""Wohnort""",1059,,3
+9,208,Undirected,"selber ""Wohnort""",1060,,3
+9,269,Undirected,"selber ""Wohnort""",1061,,3
+9,408,Undirected,"selber ""Wohnort""",1062,,3
+9,409,Undirected,"selber ""Wohnort""",1063,,3
+91,194,Undirected,"selber ""Wohnort""",1064,,3
+91,208,Undirected,"selber ""Wohnort""",1065,,3
+91,269,Undirected,"selber ""Wohnort""",1066,,3
+91,408,Undirected,"selber ""Wohnort""",1067,,3
+91,409,Undirected,"selber ""Wohnort""",1068,,3
+194,208,Undirected,"selber ""Wohnort""",1069,,3
+194,269,Undirected,"selber ""Wohnort""",1070,,3
+194,408,Undirected,"selber ""Wohnort""",1071,,3
+194,409,Undirected,"selber ""Wohnort""",1072,,3
+208,269,Undirected,"selber ""Wohnort""",1073,,3
+208,408,Undirected,"selber ""Wohnort""",1074,,3
+208,409,Undirected,"selber ""Wohnort""",1075,,3
+269,408,Undirected,"selber ""Wohnort""",1076,,3
+269,409,Undirected,"selber ""Wohnort""",1077,,3
+408,409,Undirected,"selber ""Wohnort""",1078,,3
+4,21,Undirected,"selber ""Wohnort""",1079,,3
+4,47,Undirected,"selber ""Wohnort""",1080,,3
+4,215,Undirected,"selber ""Wohnort""",1081,,3
+4,226,Undirected,"selber ""Wohnort""",1082,,3
+4,278,Undirected,"selber ""Wohnort""",1083,,3
+4,425,Undirected,"selber ""Wohnort""",1084,,3
+4,451,Undirected,"selber ""Wohnort""",1085,,3
+4,452,Undirected,"selber ""Wohnort""",1086,,3
+21,47,Undirected,"selber ""Wohnort""",1087,,3
+21,215,Undirected,"selber ""Wohnort""",1088,,3
+21,226,Undirected,"selber ""Wohnort""",1089,,3
+21,278,Undirected,"selber ""Wohnort""",1090,,3
+21,425,Undirected,"selber ""Wohnort""",1091,,3
+21,451,Undirected,"selber ""Wohnort""",1092,,3
+21,452,Undirected,"selber ""Wohnort""",1093,,3
+47,215,Undirected,"selber ""Wohnort""",1094,,3
+47,226,Undirected,"selber ""Wohnort""",1095,,3
+47,278,Undirected,"selber ""Wohnort""",1096,,3
+47,425,Undirected,"selber ""Wohnort""",1097,,3
+47,451,Undirected,"selber ""Wohnort""",1098,,3
+47,452,Undirected,"selber ""Wohnort""",1099,,3
+215,226,Undirected,"selber ""Wohnort""",1100,,3
+215,278,Undirected,"selber ""Wohnort""",1101,,3
+215,425,Undirected,"selber ""Wohnort""",1102,,3
+215,451,Undirected,"selber ""Wohnort""",1103,,3
+215,452,Undirected,"selber ""Wohnort""",1104,,3
+226,278,Undirected,"selber ""Wohnort""",1105,,3
+226,425,Undirected,"selber ""Wohnort""",1106,,3
+226,451,Undirected,"selber ""Wohnort""",1107,,3
+226,452,Undirected,"selber ""Wohnort""",1108,,3
+278,425,Undirected,"selber ""Wohnort""",1109,,3
+278,451,Undirected,"selber ""Wohnort""",1110,,3
+278,452,Undirected,"selber ""Wohnort""",1111,,3
+425,451,Undirected,"selber ""Wohnort""",1112,,3
+425,452,Undirected,"selber ""Wohnort""",1113,,3
+451,452,Undirected,"selber ""Wohnort""",1114,,3
+58,422,Undirected,Familienverhältnis,1116,,5
+59,422,Undirected,Familienverhältnis,1118,,5
+422,461,Directed,"""Staatsoberhaupt""",1131,,1
+422,472,Directed,"""Staatsoberhaupt""",1122,,1
+422,474,Directed,"""Staatsoberhaupt""",1123,,1
+422,473,Directed,"""Staatsoberhaupt""",1124,,1
+422,471,Directed,"""Staatsoberhaupt""",1125,,1
+422,457,Directed,"""Staatsoberhaupt""",1126,,1
+422,458,Directed,"""Staatsoberhaupt""",1127,,1
+422,459,Directed,"""Staatsoberhaupt""",1128,,1
+422,462,Directed,"""Staatsoberhaupt""",1132,,1
+422,460,Directed,"""Staatsoberhaupt""",1130,,1
+422,463,Directed,"""Staatsoberhaupt""",1133,,1
+422,464,Directed,"""Staatsoberhaupt""",1134,,1
+422,465,Directed,"""Staatsoberhaupt""",1135,,1
+422,466,Directed,"""Staatsoberhaupt""",1136,,1
+422,467,Directed,"""Staatsoberhaupt""",1137,,1
+422,468,Directed,"""Staatsoberhaupt""",1138,,1
+422,469,Directed,"""Staatsoberhaupt""",1139,,1
+422,470,Directed,"""Staatsoberhaupt""",1140,,1
+82,8,Directed,will vor Wahl beeinflussen,1141,,4
+82,11,Directed,will vor Wahl beeinflussen,1142,,4
+82,4,Directed,will vor Wahl beeinflussen,1143,,4
+82,18,Directed,will vor Wahl beeinflussen,1144,,4
+82,22,Directed,will vor Wahl beeinflussen,1145,,4
+0,82,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1181,,5
+0,83,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1182,,5
+0,122,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1183,,5
+0,1,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1184,,5
+0,2,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1185,,5
+0,119,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1186,,5
+0,449,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1187,,5
+0,3,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1188,,5
+0,14,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1189,,5
+0,35,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1190,,5
+0,80,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1191,,5
+0,89,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1192,,5
+0,193,Directed,"Vorsitzender der Versammlung und ""direkter"" Vorgesetzter",1193,,5

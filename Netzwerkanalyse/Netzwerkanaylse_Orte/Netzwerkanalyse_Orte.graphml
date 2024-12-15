@@ -1,0 +1,2922 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="Zugehörigkeit" attr.type="string" for="node" id="zugehörigkeit"/>
+    <key attr.name="Latitude" attr.type="string" for="node" id="latitude"/>
+    <key attr.name="Longitude" attr.type="string" for="node" id="longitude"/>
+    <key attr.name="background_map_node" attr.type="boolean" for="node" id="background_map_node"/>
+    <key attr.name="lat" attr.type="double" for="node" id="lat"/>
+    <key attr.name="lng" attr.type="double" for="node" id="lng"/>
+    <key attr.name="Grad" attr.type="int" for="node" id="degree"/>
+    <key attr.name="Gewichteter Grad" attr.type="double" for="node" id="weighted degree"/>
+    <key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+    <key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+    <key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+    <key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+    <key attr.name="Authority" attr.type="float" for="node" id="authority"/>
+    <key attr.name="Hub" attr.type="float" for="node" id="hub"/>
+    <key attr.name="PageRank" attr.type="double" for="node" id="pageranks"/>
+    <key attr.name="Component ID" attr.type="int" for="node" id="componentnumber"/>
+    <key attr.name="Cluster" attr.type="int" for="node" id="cluster"/>
+    <key attr.name="Clustering Coefficient" attr.type="double" for="node" id="clustering"/>
+    <key attr.name="Number of triangles" attr.type="int" for="node" id="triangles"/>
+    <key attr.name="Eigenvector Centrality" attr.type="double" for="node" id="eigencentrality"/>
+    <key attr.name="background_map_edge" attr.type="boolean" for="edge" id="background_map_edge"/>
+    <graph edgedefault="directed">
+        <node id="0">
+            <data key="label">Burg Hohenneuffen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="latitude">48.5566</data>
+            <data key="longitude">9.4067</data>
+            <data key="lat">48.5566</data>
+            <data key="lng">9.4067</data>
+            <data key="degree">15</data>
+            <data key="weighted degree">56.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5511811023622047</data>
+            <data key="harmonicclosnesscentrality">0.5928571428571429</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.08691737</data>
+            <data key="pageranks">0.002233004299602933</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">26</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">78</data>
+            <data key="eigencentrality">0.21120809143623165</data>
+            <data key="size">10.564516</data>
+            <data key="r">221</data>
+            <data key="g">62</data>
+            <data key="b">54</data>
+            <data key="x">9374.51</data>
+            <data key="y">-19838.955</data>
+        </node>
+        <node id="1">
+            <data key="label">Neuffen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5561</data>
+            <data key="lng">9.3882</data>
+            <data key="degree">187</data>
+            <data key="weighted degree">489.0</data>
+            <data key="eccentricity">1.0</data>
+            <data key="closnesscentrality">1.0</data>
+            <data key="harmonicclosnesscentrality">1.0</data>
+            <data key="betweenesscentrality">0.8663195534624099</data>
+            <data key="authority">0.053526245</data>
+            <data key="hub">0.93283904</data>
+            <data key="pageranks">0.015453389546945953</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">27</data>
+            <data key="clustering">0.06086956521739131</data>
+            <data key="triangles">147</data>
+            <data key="eigencentrality">1.0</data>
+            <data key="size">17.5</data>
+            <data key="r">44</data>
+            <data key="g">123</data>
+            <data key="b">182</data>
+            <data key="x">-2521.9387</data>
+            <data key="y">-20065.693</data>
+        </node>
+        <node id="2">
+            <data key="label">Beuren</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5638</data>
+            <data key="lng">9.4053</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.14295083</data>
+            <data key="hub">0.080510475</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">28</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.25925921128791257</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">5622.019</data>
+            <data key="y">-18603.01</data>
+        </node>
+        <node id="3">
+            <data key="label">Frickenhausen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5771</data>
+            <data key="lng">9.3611</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.14655922</data>
+            <data key="hub">0.07394185</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">29</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.25925921128791257</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">770.0485</data>
+            <data key="y">-16473.615</data>
+        </node>
+        <node id="4">
+            <data key="label">Grabenstetten</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5321</data>
+            <data key="lng">9.4516</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.14987321</data>
+            <data key="hub">0.0672247</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">30</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">8018.151</data>
+            <data key="y">-21850.598</data>
+        </node>
+        <node id="5">
+            <data key="label">Großbettlingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5958</data>
+            <data key="lng">9.3431</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.15288615</data>
+            <data key="hub">0.060372505</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">31</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">-5739.5625</data>
+            <data key="y">-15281.822</data>
+        </node>
+        <node id="6">
+            <data key="label">Linsenhofen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5792</data>
+            <data key="lng">9.3722</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.15559198</data>
+            <data key="hub">0.05339904</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">32</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">7256.912</data>
+            <data key="y">-17527.068</data>
+        </node>
+        <node id="7">
+            <data key="label">Erkenbrechtsweiler</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5469</data>
+            <data key="lng">9.4264</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.15798527</data>
+            <data key="hub">0.046318315</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">33</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">8674.432</data>
+            <data key="y">-21028.229</data>
+        </node>
+        <node id="8">
+            <data key="label">Balzholz</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5633</data>
+            <data key="lng">9.3952</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.1600612</data>
+            <data key="hub">0.03914455</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">34</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">452.3843</data>
+            <data key="y">-18541.844</data>
+        </node>
+        <node id="9">
+            <data key="label">Kleinbettlingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5968</data>
+            <data key="lng">9.3363</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.16181561</data>
+            <data key="hub">0.03189215</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">35</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">-15437.987</data>
+            <data key="y">-14622.137</data>
+        </node>
+        <node id="10">
+            <data key="label">Tischardt</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5697</data>
+            <data key="lng">9.3649</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.16324499</data>
+            <data key="hub">0.024575688</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">36</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">-5350.647</data>
+            <data key="y">-17613.502</data>
+        </node>
+        <node id="11">
+            <data key="label">Bad Urach</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4931</data>
+            <data key="lng">9.4003</data>
+            <data key="degree">8</data>
+            <data key="weighted degree">31.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5147058823529411</data>
+            <data key="harmonicclosnesscentrality">0.5285714285714286</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13981408</data>
+            <data key="hub">0.008773629</data>
+            <data key="pageranks">0.0012258028489028515</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">37</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">6</data>
+            <data key="eigencentrality">0.1348284264796234</data>
+            <data key="size">10.282258</data>
+            <data key="r">218</data>
+            <data key="g">43</data>
+            <data key="b">41</data>
+            <data key="x">6876.148</data>
+            <data key="y">-22597.844</data>
+        </node>
+        <node id="12">
+            <data key="label">Schorndorf</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8057</data>
+            <data key="lng">9.5277</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">38</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">2929.1926</data>
+            <data key="y">-7688.354</data>
+        </node>
+        <node id="13">
+            <data key="label">Ettlingen</data>
+            <data key="zugehörigkeit">Markgrafschaft Baden</data>
+            <data key="background_map_node">false</data>
+            <data key="lat">48.9401</data>
+            <data key="lng">8.4075</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.12542647</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">39</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.10593363346693468</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">-24218.75</data>
+            <data key="y">-3050.3293</data>
+        </node>
+        <node id="14">
+            <data key="label">Philippsburg</data>
+            <data key="zugehörigkeit">französisch erobert</data>
+            <data key="lat">49.2317</data>
+            <data key="lng">8.4569</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.12542647</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">40</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.10991809824291877</data>
+            <data key="size">10.16129</data>
+            <data key="r">216</data>
+            <data key="g">35</data>
+            <data key="b">35</data>
+            <data key="x">-24218.75</data>
+            <data key="y">8371.266</data>
+        </node>
+        <node id="15">
+            <data key="label">Stuttgart</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7758</data>
+            <data key="lng">9.1829</data>
+            <data key="degree">57</data>
+            <data key="weighted degree">63.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.813953488372093</data>
+            <data key="harmonicclosnesscentrality">0.8857142857142857</data>
+            <data key="betweenesscentrality">0.07252102624773432</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.30408624</data>
+            <data key="pageranks">0.010356197487028759</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">41</data>
+            <data key="clustering">0.0936408106219427</data>
+            <data key="triangles">134</data>
+            <data key="eigencentrality">0.405646405752983</data>
+            <data key="size">12.258064</data>
+            <data key="r">240</data>
+            <data key="g">173</data>
+            <data key="b">133</data>
+            <data key="x">-8001.514</data>
+            <data key="y">-8332.251</data>
+        </node>
+        <node id="16">
+            <data key="label">Nürtingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6263</data>
+            <data key="lng">9.3428</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">21.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13933517</data>
+            <data key="hub">0.004367253</data>
+            <data key="pageranks">0.0010614147255686086</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">42</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">3</data>
+            <data key="eigencentrality">0.12723131154102343</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">1314.8322</data>
+            <data key="y">-13964.365</data>
+        </node>
+        <node id="17">
+            <data key="label">Mömpelgard</data>
+            <data key="zugehörigkeit">Grafschaft</data>
+            <data key="lat">47.58701</data>
+            <data key="lng">6.8184</data>
+            <data key="degree">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.041808825</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">43</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.035311211155644895</data>
+            <data key="size">10.0</data>
+            <data key="r">215</data>
+            <data key="g">25</data>
+            <data key="b">28</data>
+            <data key="x">-22785.67</data>
+            <data key="y">-22744.592</data>
+        </node>
+        <node id="18">
+            <data key="label">Grafenberg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5567</data>
+            <data key="lng">9.3358</data>
+            <data key="degree">16</data>
+            <data key="weighted degree">63.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.16434644</data>
+            <data key="hub">0.014810872</data>
+            <data key="pageranks">0.0023877144886765476</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">44</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.22507726125816818</data>
+            <data key="size">10.604838</data>
+            <data key="r">221</data>
+            <data key="g">64</data>
+            <data key="b">56</data>
+            <data key="x">-11268.915</data>
+            <data key="y">-18834.248</data>
+        </node>
+        <node id="19">
+            <data key="label">Münsingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4136</data>
+            <data key="lng">9.4938</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">17.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13933517</data>
+            <data key="hub">0.004367253</data>
+            <data key="pageranks">0.0010614147255686086</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">45</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">3</data>
+            <data key="eigencentrality">0.12723131154102343</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">4762.5933</data>
+            <data key="y">-23437.492</data>
+        </node>
+        <node id="20">
+            <data key="label">Asperg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.9076</data>
+            <data key="lng">9.1384</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">46</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-7747.2964</data>
+            <data key="y">-2288.3223</data>
+        </node>
+        <node id="21">
+            <data key="label">Schwarzwald</data>
+            <data key="zugehörigkeit">Region</data>
+            <data key="lat">48.26555</data>
+            <data key="lng">6.9115</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">3.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">47</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.07062242231128979</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">-24218.75</data>
+            <data key="y">-23563.027</data>
+        </node>
+        <node id="22">
+            <data key="label">Freudenstadt</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4669</data>
+            <data key="lng">8.4136</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">48</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-24218.75</data>
+            <data key="y">-20443.72</data>
+        </node>
+        <node id="23">
+            <data key="label">Bad Cannstatt</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8053</data>
+            <data key="lng">9.2225</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">49</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">-4812.4985</data>
+            <data key="y">-7002.953</data>
+        </node>
+        <node id="24">
+            <data key="label">Owen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5906</data>
+            <data key="lng">9.4472</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">23.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5185185185185185</data>
+            <data key="harmonicclosnesscentrality">0.5357142857142857</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.05594644</data>
+            <data key="hub">0.015141879</data>
+            <data key="pageranks">0.0013481940163993828</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">50</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">10</data>
+            <data key="eigencentrality">0.06740793376173328</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">12119.488</data>
+            <data key="y">-16407.525</data>
+        </node>
+        <node id="25">
+            <data key="label">Kirchheim</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6493</data>
+            <data key="lng">9.4545</data>
+            <data key="degree">10</data>
+            <data key="weighted degree">39.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5185185185185185</data>
+            <data key="harmonicclosnesscentrality">0.5357142857142857</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.14049706</data>
+            <data key="hub">0.011352412</data>
+            <data key="pageranks">0.0014204533604421817</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">51</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">10</data>
+            <data key="eigencentrality">0.14064995367741423</data>
+            <data key="size">10.362904</data>
+            <data key="r">219</data>
+            <data key="g">48</data>
+            <data key="b">44</data>
+            <data key="x">7432.8955</data>
+            <data key="y">-13673.652</data>
+        </node>
+        <node id="26">
+            <data key="label">Bietigheim</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.9632</data>
+            <data key="lng">9.1314</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">52</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-7067.2417</data>
+            <data key="y">-347.83002</data>
+        </node>
+        <node id="27">
+            <data key="label">Ludwigsburg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8953</data>
+            <data key="lng">9.1916</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">14.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08378595</data>
+            <data key="hub">0.004367253</data>
+            <data key="pageranks">9.132775045045975E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">53</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.07739809630541761</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-5695.7</data>
+            <data key="y">-3912.777</data>
+        </node>
+        <node id="28">
+            <data key="label">Pfullingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4642</data>
+            <data key="lng">9.2297</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">8.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">54</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-9011.749</data>
+            <data key="y">-23044.2</data>
+        </node>
+        <node id="29">
+            <data key="label">Neuenbürg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8611</data>
+            <data key="lng">8.5953</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">55</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-20746.422</data>
+            <data key="y">-6133.14</data>
+        </node>
+        <node id="30">
+            <data key="label">Göppingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7036</data>
+            <data key="lng">9.6523</data>
+            <data key="degree">8</data>
+            <data key="weighted degree">26.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5147058823529411</data>
+            <data key="harmonicclosnesscentrality">0.5285714285714286</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13981408</data>
+            <data key="hub">0.008773629</data>
+            <data key="pageranks">0.0012258028489028515</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">56</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">6</data>
+            <data key="eigencentrality">0.1348284264796234</data>
+            <data key="size">10.282258</data>
+            <data key="r">218</data>
+            <data key="g">43</data>
+            <data key="b">41</data>
+            <data key="x">12037.538</data>
+            <data key="y">-11463.349</data>
+        </node>
+        <node id="31">
+            <data key="label">Neuler</data>
+            <data key="zugehörigkeit">Fürstprobstei Ellwangen</data>
+            <data key="lat">48.9343</data>
+            <data key="lng">10.1027</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">57</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.07062242231128979</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">17921.94</data>
+            <data key="y">-3276.7332</data>
+        </node>
+        <node id="32">
+            <data key="label">Neidling</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5749914</data>
+            <data key="lng">9.5235382</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">58</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">13690.861</data>
+            <data key="y">-18543.893</data>
+        </node>
+        <node id="33">
+            <data key="label">Köngen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6833</data>
+            <data key="lng">9.3667</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">59</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-224.34186</data>
+            <data key="y">-12703.859</data>
+        </node>
+        <node id="34">
+            <data key="label">Denkendorf</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6853</data>
+            <data key="lng">9.3322</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">60</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-6081.366</data>
+            <data key="y">-12196.884</data>
+        </node>
+        <node id="35">
+            <data key="label">Seeburg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5021</data>
+            <data key="lng">9.3813</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">19.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5147058823529411</data>
+            <data key="harmonicclosnesscentrality">0.5285714285714286</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09763969</data>
+            <data key="hub">0.010663839</data>
+            <data key="pageranks">0.0011869092424817733</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">61</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">6</data>
+            <data key="eigencentrality">0.09833143660087273</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">304.00558</data>
+            <data key="y">-22219.021</data>
+        </node>
+        <node id="36">
+            <data key="label">Weiltingen</data>
+            <data key="zugehörigkeit">umstrittene Fraisch</data>
+            <data key="lat">49.0167</data>
+            <data key="lng">10.4167</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">62</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.07062242231128979</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">25781.25</data>
+            <data key="y">-56.511868</data>
+        </node>
+        <node id="37">
+            <data key="label">Wolfschlugen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6516</data>
+            <data key="lng">9.2924</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">15.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.097442195</data>
+            <data key="hub">0.00624485</data>
+            <data key="pageranks">0.0010350826641098987</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">63</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">3</data>
+            <data key="eigencentrality">0.0941166948590144</data>
+            <data key="size">10.16129</data>
+            <data key="r">216</data>
+            <data key="g">35</data>
+            <data key="b">35</data>
+            <data key="x">-7027.5063</data>
+            <data key="y">-13324.189</data>
+        </node>
+        <node id="38">
+            <data key="label">Dettingen unter Teck</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6114</data>
+            <data key="lng">9.4239</data>
+            <data key="degree">7</data>
+            <data key="weighted degree">24.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5185185185185185</data>
+            <data key="harmonicclosnesscentrality">0.5357142857142857</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.098433904</data>
+            <data key="hub">0.010730179</data>
+            <data key="pageranks">0.0013731561221706611</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">64</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">10</data>
+            <data key="eigencentrality">0.10158988379147753</data>
+            <data key="size">10.241936</data>
+            <data key="r">217</data>
+            <data key="g">40</data>
+            <data key="b">39</data>
+            <data key="x">7506.7866</data>
+            <data key="y">-15259.832</data>
+        </node>
+        <node id="39">
+            <data key="label">Ebersbach</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7188</data>
+            <data key="lng">9.5247</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">18.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5147058823529411</data>
+            <data key="harmonicclosnesscentrality">0.5285714285714286</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09763969</data>
+            <data key="hub">0.010663839</data>
+            <data key="pageranks">0.0011869092424817733</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">65</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">6</data>
+            <data key="eigencentrality">0.09833143660087273</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">4853.143</data>
+            <data key="y">-9912.502</data>
+        </node>
+        <node id="40">
+            <data key="label">Metzingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5373</data>
+            <data key="lng">9.2853</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">66</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">-10128.031</data>
+            <data key="y">-20320.225</data>
+        </node>
+        <node id="41">
+            <data key="label">Böblingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6814</data>
+            <data key="lng">9.0086</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">17.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13933517</data>
+            <data key="hub">0.004367253</data>
+            <data key="pageranks">0.0010614147255686086</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">67</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">3</data>
+            <data key="eigencentrality">0.12723131154102343</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">-12281.95</data>
+            <data key="y">-11040.188</data>
+        </node>
+        <node id="42">
+            <data key="label">Herrenberg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5952</data>
+            <data key="lng">8.8681</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">68</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-17728.344</data>
+            <data key="y">-15941.333</data>
+        </node>
+        <node id="43">
+            <data key="label">Waldenbuch</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6354</data>
+            <data key="lng">9.1266</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">69</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">-15550.643</data>
+            <data key="y">-13248.312</data>
+        </node>
+        <node id="44">
+            <data key="label">Blaubeuren</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4154</data>
+            <data key="lng">9.7853</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">70</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">11758.531</data>
+            <data key="y">-24157.088</data>
+        </node>
+        <node id="45">
+            <data key="label">Adelberg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7641</data>
+            <data key="lng">9.6206</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">71</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">7098.0444</data>
+            <data key="y">-8799.61</data>
+        </node>
+        <node id="46">
+            <data key="label">Waiblingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8324</data>
+            <data key="lng">9.3164</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">7.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">72</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">1568.1465</data>
+            <data key="y">-5865.816</data>
+        </node>
+        <node id="47">
+            <data key="label">Winnenden</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8758</data>
+            <data key="lng">9.3982</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">73</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">4051.33</data>
+            <data key="y">-4199.0967</data>
+        </node>
+        <node id="48">
+            <data key="label">Kappishäusern</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5289</data>
+            <data key="lng">9.3661</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.16501026</data>
+            <data key="hub">0.009814281</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">74</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">-7446.1157</data>
+            <data key="y">-21749.303</data>
+        </node>
+        <node id="49">
+            <data key="label">Schlotheim</data>
+            <data key="zugehörigkeit">Fürstentum Schwarzburg-Rudolstadt</data>
+            <data key="lat">51.2386</data>
+            <data key="lng">10.6645</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0023989878</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">75</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.10593363346693468</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">11141.456</data>
+            <data key="y">25781.25</data>
+        </node>
+        <node id="50">
+            <data key="label">Templin</data>
+            <data key="zugehörigkeit">Stadt in der Uckermark</data>
+            <data key="lat">53.1181</data>
+            <data key="lng">13.5049</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0023989878</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">76</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.10593363346693468</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">25781.25</data>
+            <data key="y">25781.25</data>
+        </node>
+        <node id="51">
+            <data key="label">Schwäbisch Gmünd</data>
+            <data key="zugehörigkeit">Reichsstadt</data>
+            <data key="lat">48.7985</data>
+            <data key="lng">9.7982</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.041808825</data>
+            <data key="hub">0.0023989878</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">77</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.07062242231128979</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">14474.269</data>
+            <data key="y">-6454.7886</data>
+        </node>
+        <node id="52">
+            <data key="label">Grafeneck</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4021</data>
+            <data key="lng">9.4069</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.055437636</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">78</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.04964369311503962</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">162.58058</data>
+            <data key="y">-24218.75</data>
+        </node>
+        <node id="53">
+            <data key="label">Eglingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7841</data>
+            <data key="lng">9.6804</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">79</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">10248.014</data>
+            <data key="y">-7567.367</data>
+        </node>
+        <node id="54">
+            <data key="label">Schlierbach</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6766</data>
+            <data key="lng">9.5058</data>
+            <data key="degree">7</data>
+            <data key="weighted degree">23.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5185185185185185</data>
+            <data key="harmonicclosnesscentrality">0.5357142857142857</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.098914824</data>
+            <data key="hub">0.006296925</data>
+            <data key="pageranks">0.0013731561221706611</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">80</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">10</data>
+            <data key="eigencentrality">0.10158988379147753</data>
+            <data key="size">10.241936</data>
+            <data key="r">217</data>
+            <data key="g">40</data>
+            <data key="b">39</data>
+            <data key="x">5808.2393</data>
+            <data key="y">-12651.502</data>
+        </node>
+        <node id="55">
+            <data key="label">Kornwestheim</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.8625</data>
+            <data key="lng">9.1853</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">14.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">8.281573498964804E-5</data>
+            <data key="authority">0.097442195</data>
+            <data key="hub">0.0037551948</data>
+            <data key="pageranks">0.0010765315859320584</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">81</data>
+            <data key="clustering">0.6666666666666666</data>
+            <data key="triangles">2</data>
+            <data key="eigencentrality">0.09082998507817176</data>
+            <data key="size">10.16129</data>
+            <data key="r">216</data>
+            <data key="g">35</data>
+            <data key="b">35</data>
+            <data key="x">-6789.1963</data>
+            <data key="y">-5400.815</data>
+        </node>
+        <node id="56">
+            <data key="label">Esslingen</data>
+            <data key="zugehörigkeit">Reichsstadt</data>
+            <data key="lat">48.7405</data>
+            <data key="lng">9.3117</data>
+            <data key="degree">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.041808825</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">82</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.035311211155644895</data>
+            <data key="size">10.0</data>
+            <data key="r">215</data>
+            <data key="g">25</data>
+            <data key="b">28</data>
+            <data key="x">-3255.9958</data>
+            <data key="y">-9779.886</data>
+        </node>
+        <node id="57">
+            <data key="label">Nagold</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5544</data>
+            <data key="lng">8.7229</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">83</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-17473.176</data>
+            <data key="y">-18055.559</data>
+        </node>
+        <node id="58">
+            <data key="label">Tuttlingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">47.9855</data>
+            <data key="lng">8.8207</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">84</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-14964.386</data>
+            <data key="y">-24218.75</data>
+        </node>
+        <node id="59">
+            <data key="label">Maulbronn</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">49.0017</data>
+            <data key="lng">8.8051</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">85</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-15364.556</data>
+            <data key="y">-643.10944</data>
+        </node>
+        <node id="60">
+            <data key="label">Dornstetten</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="background_map_node">false</data>
+            <data key="lat">48.4676</data>
+            <data key="lng">8.5019</data>
+            <data key="degree">4</data>
+            <data key="weighted degree">5.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.13905528</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">86</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.12026611542632938</data>
+            <data key="size">10.120968</data>
+            <data key="r">216</data>
+            <data key="g">32</data>
+            <data key="b">33</data>
+            <data key="x">-23142.354</data>
+            <data key="y">-21416.547</data>
+        </node>
+        <node id="61">
+            <data key="label">Sindelfingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7078</data>
+            <data key="lng">9.0061</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">14.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.097442195</data>
+            <data key="hub">0.00624485</data>
+            <data key="pageranks">0.0010350826641098987</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">87</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">3</data>
+            <data key="eigencentrality">0.0941166948590144</data>
+            <data key="size">10.16129</data>
+            <data key="r">216</data>
+            <data key="g">35</data>
+            <data key="b">35</data>
+            <data key="x">-14883.726</data>
+            <data key="y">-9765.05</data>
+        </node>
+        <node id="62">
+            <data key="label">Gomadingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4069</data>
+            <data key="lng">9.3547285</data>
+            <data key="degree">5</data>
+            <data key="weighted degree">14.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5109489051094891</data>
+            <data key="harmonicclosnesscentrality">0.5214285714285715</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.097442195</data>
+            <data key="hub">0.00624485</data>
+            <data key="pageranks">0.0010350826641098987</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">88</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">3</data>
+            <data key="eigencentrality">0.0941166948590144</data>
+            <data key="size">10.16129</data>
+            <data key="r">216</data>
+            <data key="g">35</data>
+            <data key="b">35</data>
+            <data key="x">-4922.439</data>
+            <data key="y">-24218.75</data>
+        </node>
+        <node id="63">
+            <data key="label">Upfingen</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.4436</data>
+            <data key="lng">9.3817</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">19.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5147058823529411</data>
+            <data key="harmonicclosnesscentrality">0.5285714285714286</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09811763</data>
+            <data key="hub">0.006266314</data>
+            <data key="pageranks">0.0011869092424817733</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">89</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">6</data>
+            <data key="eigencentrality">0.09833143660087273</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">-2359.1255</data>
+            <data key="y">-23290.219</data>
+        </node>
+        <node id="64">
+            <data key="label">Salzburg</data>
+            <data key="zugehörigkeit">Fürsterzbischöfliche Residenzstadt</data>
+            <data key="lat">47.8095</data>
+            <data key="lng">13.055</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">6.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0023989878</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">90</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.10593363346693468</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">25781.25</data>
+            <data key="y">-24218.75</data>
+        </node>
+        <node id="65">
+            <data key="label">Heidenheim (an der Brenz)</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.6783</data>
+            <data key="lng">10.1516</data>
+            <data key="degree">3</data>
+            <data key="weighted degree">4.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5072463768115942</data>
+            <data key="harmonicclosnesscentrality">0.5142857142857142</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09724646</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">8.813274617901456E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">91</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">1</data>
+            <data key="eigencentrality">0.08495490427068449</data>
+            <data key="size">10.080646</data>
+            <data key="r">215</data>
+            <data key="g">30</data>
+            <data key="b">31</data>
+            <data key="x">20360.283</data>
+            <data key="y">-13795.984</data>
+        </node>
+        <node id="66">
+            <data key="label">Ulm</data>
+            <data key="zugehörigkeit">Reichsstadt</data>
+            <data key="lat">48.4011</data>
+            <data key="lng">9.9876</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">92</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.07062242231128979</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">16438.613</data>
+            <data key="y">-24218.75</data>
+        </node>
+        <node id="67">
+            <data key="label">Freiburg</data>
+            <data key="zugehörigkeit">französisch begalgert</data>
+            <data key="lat">47.999</data>
+            <data key="lng">7.8421</data>
+            <data key="degree">1</data>
+            <data key="weighted degree">1.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.041808825</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">93</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.035311211155644895</data>
+            <data key="size">10.0</data>
+            <data key="r">215</data>
+            <data key="g">25</data>
+            <data key="b">28</data>
+            <data key="x">-22760.836</data>
+            <data key="y">-24218.75</data>
+        </node>
+        <node id="68">
+            <data key="label">Donauwörth</data>
+            <data key="zugehörigkeit">bayrisch eroberte Stadt</data>
+            <data key="lat">48.7185</data>
+            <data key="lng">10.7793</data>
+            <data key="degree">2</data>
+            <data key="weighted degree">2.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5035971223021583</data>
+            <data key="harmonicclosnesscentrality">0.5071428571428571</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.08361765</data>
+            <data key="hub">0.0</data>
+            <data key="pageranks">7.256706333515207E-4</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">94</data>
+            <data key="clustering">0.0</data>
+            <data key="triangles">0</data>
+            <data key="eigencentrality">0.07062242231128979</data>
+            <data key="size">10.040322</data>
+            <data key="r">215</data>
+            <data key="g">27</data>
+            <data key="b">29</data>
+            <data key="x">25781.25</data>
+            <data key="y">-11685.495</data>
+        </node>
+        <node id="69">
+            <data key="label">Reichenbach (an der Fils)</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.7121</data>
+            <data key="lng">9.4621</data>
+            <data key="degree">6</data>
+            <data key="weighted degree">19.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5147058823529411</data>
+            <data key="harmonicclosnesscentrality">0.5285714285714286</data>
+            <data key="betweenesscentrality">0.0</data>
+            <data key="authority">0.09811763</data>
+            <data key="hub">0.006266314</data>
+            <data key="pageranks">0.0011869092424817735</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">95</data>
+            <data key="clustering">1.0</data>
+            <data key="triangles">6</data>
+            <data key="eigencentrality">0.09833143660087273</data>
+            <data key="size">10.201612</data>
+            <data key="r">217</data>
+            <data key="g">38</data>
+            <data key="b">37</data>
+            <data key="x">-148.83047</data>
+            <data key="y">-11065.759</data>
+        </node>
+        <node id="70">
+            <data key="label">Kohlberg</data>
+            <data key="zugehörigkeit">Herzogtum Württemberg</data>
+            <data key="lat">48.5778</data>
+            <data key="lng">9.3248</data>
+            <data key="degree">17</data>
+            <data key="weighted degree">68.0</data>
+            <data key="eccentricity">2.0</data>
+            <data key="closnesscentrality">0.5555555555555556</data>
+            <data key="harmonicclosnesscentrality">0.6</data>
+            <data key="betweenesscentrality">1.7253278122843338E-5</data>
+            <data key="authority">0.16545011</data>
+            <data key="hub">0.0023989878</data>
+            <data key="pageranks">0.002395113442263168</data>
+            <data key="componentnumber">0</data>
+            <data key="cluster">96</data>
+            <data key="clustering">0.989010989010989</data>
+            <data key="triangles">90</data>
+            <data key="eigencentrality">0.2592592112879125</data>
+            <data key="size">10.645162</data>
+            <data key="r">222</data>
+            <data key="g">67</data>
+            <data key="b">58</data>
+            <data key="x">-11332.343</data>
+            <data key="y">-17083.826</data>
+        </node>
+        <edge id="2" label="Amtsstadt von" source="1" target="2">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="3" label="Amtsstadt von" source="1" target="3">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="4" label="Amtsstadt von" source="1" target="4">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="6" label="Amtsstadt von" source="1" target="5">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="7" label="Amtsstadt von" source="1" target="6">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="8" label="Amtsstadt von" source="1" target="7">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="9" label="Amtsstadt von" source="1" target="8">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="10" label="Amtsstadt von" source="1" target="9">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="11" label="Amtsstadt von" source="1" target="10">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="12" label="Amtsstadt von" source="1" target="18">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="13" label="Amtsort von" source="2" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="14" label="Amtsort von" source="3" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="15" label="Amtsort von" source="4" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="16" label="Amtsort von" source="5" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="17" label="Amtsort von" source="6" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="18" label="Amtsort von" source="7" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="19" label="Amtsort von" source="8" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="20" label="Amtsort von" source="9" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="21" label="Amtsort von" source="10" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="22" label="Burg/Festung bei" source="0" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="23" label="Burg/Festung bei" source="14" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="24" label="Amtsstadt von" source="1" target="48">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="25" label="Amtsort von" source="48" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="26" label="Amtsort von" source="24" target="25">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="27" label="Amtsstadt von" source="25" target="24">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="28" label="Amtsstadt von" source="11" target="35">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="29" label="Amtsort von" source="35" target="11">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="30" label="Amtsstadt von" source="16" target="37">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="31" label="Amtsort von" source="37" target="16">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="35" label="Amtsort von" source="38" target="25">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="34" label="Amtsstadt von" source="25" target="38">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="36" label="Amtsort von" source="39" target="30">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="37" label="Amtsstadt von" source="30" target="39">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="38" label="Amtsstadt von" source="25" target="54">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="39" label="Amtsort von" source="54" target="25">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="40" label="Amtsort von" source="55" target="27">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="41" label="Amtsstadt von" source="27" target="55">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="42" label="Amtsstadt von" source="41" target="61">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="43" label="Amtsort von" source="61" target="41">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="44" label="Amtsort von" source="62" target="19">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="45" label="Amtsstadt von" source="19" target="62">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="46" label="Amtsstadt von" source="11" target="63">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="47" label="Amtsort von" source="63" target="11">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="48" label="Amtsort von" source="69" target="30">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="49" label="Amtsstadt von" source="30" target="69">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="51" label="selbe Hierarchieebene im Herzogtum" source="1" target="11">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="52" label="selbe Hierarchieebene im Herzogtum" source="1" target="12">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="54" label="selbe Hierarchieebene im Herzogtum" source="1" target="13">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="56" label="selbe Hierarchieebene im Herzogtum" source="1" target="14">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="57" label="selbe Hierarchieebene im Herzogtum" source="1" target="16">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="58" label="selbe Hierarchieebene im Herzogtum" source="1" target="19">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="59" label="selbe Hierarchieebene im Herzogtum" source="1" target="20">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="60" label="selbe Hierarchieebene im Herzogtum" source="1" target="22">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="61" label="selbe Hierarchieebene im Herzogtum" source="1" target="23">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="62" label="selbe Hierarchieebene im Herzogtum" source="1" target="25">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="63" label="selbe Hierarchieebene im Herzogtum" source="1" target="26">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="64" label="selbe Hierarchieebene im Herzogtum" source="1" target="28">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="65" label="selbe Hierarchieebene im Herzogtum" source="1" target="29">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="66" label="selbe Hierarchieebene im Herzogtum" source="1" target="30">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="67" label="selbe Hierarchieebene im Herzogtum" source="1" target="33">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="68" label="selbe Hierarchieebene im Herzogtum" source="1" target="34">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="69" label="selbe Hierarchieebene im Herzogtum" source="1" target="41">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="70" label="selbe Hierarchieebene im Herzogtum" source="1" target="42">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="71" label="selbe Hierarchieebene im Herzogtum" source="1" target="46">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="72" label="selbe Hierarchieebene im Herzogtum" source="1" target="47">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="73" label="selbe Hierarchieebene im Herzogtum" source="1" target="57">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="74" label="selbe Hierarchieebene im Herzogtum" source="1" target="58">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="75" label="selbe Hierarchieebene im Herzogtum" source="1" target="59">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="76" label="selbe Hierarchieebene im Herzogtum" source="1" target="60">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="77" label="selbe Hierarchieebene im Herzogtum" source="1" target="65">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="78" label="Herkunftsort von Besuchern/Vertretern von" source="64" target="1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="79" label="Herkunftsort von Besuchern/Vertretern von" source="49" target="1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="80" label="Herkunftsort von Besuchern/Vertretern von" source="50" target="1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="81" label="Herkunftsort von Besuchern/Vertretern von" source="51" target="1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="82" label="Herkunftsort von Besuchern/Vertretern von" source="15" target="1">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="83" label="Sehr nah (&lt;10km)" source="1" target="2">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="84" label="Sehr nah (&lt;10km)" source="1" target="3">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="85" label="Sehr nah (&lt;10km)" source="1" target="4">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="86" label="Sehr nah (&lt;10km)" source="1" target="5">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="87" label="Sehr nah (&lt;10km)" source="1" target="6">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="88" label="Sehr nah (&lt;10km)" source="1" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="89" label="Sehr nah (&lt;10km)" source="1" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="90" label="Sehr nah (&lt;10km)" source="1" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="91" label="Sehr nah (&lt;10km)" source="1" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="92" label="Sehr nah (&lt;10km)" source="1" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="93" label="Sehr nah (&lt;10km)" source="1" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="94" label="Sehr nah (&lt;10km)" source="1" target="11">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="95" label="Sehr nah (&lt;10km)" source="1" target="16">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="96" label="Sehr nah (&lt;10km)" source="1" target="24">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="97" label="Sehr nah (&lt;10km)" source="1" target="0">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="98" label="Sehr nah (&lt;10km)" source="1" target="38">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="99" label="Sehr nah (&lt;10km)" source="1" target="40">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="100" label="Nah (10-20km)" source="1" target="25">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="101" label="Nah (10-20km)" source="1" target="28">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="102" label="Nah (10-20km)" source="1" target="32">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="103" label="Nah (10-20km)" source="1" target="33">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="104" label="Nah (10-20km)" source="1" target="34">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="105" label="Nah (10-20km)" source="1" target="35">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="106" label="Nah (10-20km)" source="1" target="37">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="107" label="Nah (10-20km)" source="1" target="52">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="108" label="Nah (10-20km)" source="1" target="54">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="109" label="Nah (10-20km)" source="1" target="63">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="110" label="Nah (10-20km)" source="1" target="69">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="111" label="Mittelweit entfernt (20-50km)" source="1" target="12">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="112" label="Mittelweit entfernt (20-50km)" source="1" target="15">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="113" label="Mittelweit entfernt (20-50km)" source="1" target="19">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="114" label="Mittelweit entfernt (20-50km)" source="1" target="20">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="115" label="Mittelweit entfernt (20-50km)" source="1" target="23">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="116" label="Mittelweit entfernt (20-50km)" source="1" target="26">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="117" label="Mittelweit entfernt (20-50km)" source="1" target="27">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="118" label="Mittelweit entfernt (20-50km)" source="1" target="30">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="119" label="Mittelweit entfernt (20-50km)" source="1" target="39">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="120" label="Mittelweit entfernt (20-50km)" source="1" target="41">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="121" label="Mittelweit entfernt (20-50km)" source="1" target="42">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="122" label="Mittelweit entfernt (20-50km)" source="1" target="43">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="123" label="Mittelweit entfernt (20-50km)" source="1" target="44">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="124" label="Mittelweit entfernt (20-50km)" source="1" target="45">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="125" label="Mittelweit entfernt (20-50km)" source="1" target="46">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="126" label="Mittelweit entfernt (20-50km)" source="1" target="47">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="127" label="Mittelweit entfernt (20-50km)" source="1" target="53">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="128" label="Mittelweit entfernt (20-50km)" source="1" target="55">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="129" label="Mittelweit entfernt (20-50km)" source="1" target="57">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="130" label="Mittelweit entfernt (20-50km)" source="1" target="61">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="131" label="Mittelweit entfernt (20-50km)" source="1" target="62">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="132" label="Weit entfernt (&gt;50km)" source="1" target="22">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="133" label="Weit entfernt (&gt;50km)" source="1" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="134" label="Weit entfernt (&gt;50km)" source="1" target="58">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="135" label="Weit entfernt (&gt;50km)" source="1" target="59">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="136" label="Weit entfernt (&gt;50km)" source="1" target="60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="137" label="Weit entfernt (&gt;50km)" source="1" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="138" label="Außerhalb des Herzogtums" source="1" target="67">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="139" label="Außerhalb des Herzogtums" source="1" target="13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="140" label="Außerhalb des Herzogtums" source="1" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="141" label="Außerhalb des Herzogtums" source="1" target="17">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="142" label="Außerhalb des Herzogtums" source="1" target="21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="143" label="Außerhalb des Herzogtums" source="1" target="31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="144" label="Außerhalb des Herzogtums" source="1" target="36">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="145" label="Außerhalb des Herzogtums" source="1" target="49">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="146" label="Außerhalb des Herzogtums" source="1" target="50">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="147" label="Außerhalb des Herzogtums" source="1" target="51">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="148" label="Außerhalb des Herzogtums" source="1" target="56">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="149" label="Außerhalb des Herzogtums" source="1" target="64">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="150" label="Außerhalb des Herzogtums" source="1" target="66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="151" label="Außerhalb des Herzogtums" source="1" target="68">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="152" label="Residenzstadt des Herzogtums" source="15" target="1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="153" label="Residenzstadt des Herzogtums" source="15" target="2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="154" label="Residenzstadt des Herzogtums" source="15" target="3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="155" label="Residenzstadt des Herzogtums" source="15" target="4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="156" label="Residenzstadt des Herzogtums" source="15" target="5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="157" label="Residenzstadt des Herzogtums" source="15" target="6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="158" label="Residenzstadt des Herzogtums" source="15" target="7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="159" label="Residenzstadt des Herzogtums" source="15" target="8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="160" label="Residenzstadt des Herzogtums" source="15" target="9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="161" label="Residenzstadt des Herzogtums" source="15" target="10">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="162" label="Residenzstadt des Herzogtums" source="15" target="11">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="163" label="Residenzstadt des Herzogtums" source="15" target="12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="164" label="Residenzstadt des Herzogtums" source="15" target="16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="165" label="Residenzstadt des Herzogtums" source="15" target="18">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="166" label="Residenzstadt des Herzogtums" source="15" target="19">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="167" label="Residenzstadt des Herzogtums" source="15" target="20">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="168" label="Residenzstadt des Herzogtums" source="15" target="22">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="169" label="Residenzstadt des Herzogtums" source="15" target="23">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="170" label="Residenzstadt des Herzogtums" source="15" target="24">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="171" label="Residenzstadt des Herzogtums" source="15" target="25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="172" label="Residenzstadt des Herzogtums" source="15" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="173" label="Residenzstadt des Herzogtums" source="15" target="28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="174" label="Residenzstadt des Herzogtums" source="15" target="29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="175" label="Residenzstadt des Herzogtums" source="15" target="30">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="176" label="Residenzstadt des Herzogtums" source="15" target="32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="177" label="Residenzstadt des Herzogtums" source="15" target="33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="178" label="Residenzstadt des Herzogtums" source="15" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="179" label="Residenzstadt des Herzogtums" source="15" target="35">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="180" label="Residenzstadt des Herzogtums" source="15" target="37">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="181" label="Residenzstadt des Herzogtums" source="15" target="38">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="182" label="Residenzstadt des Herzogtums" source="15" target="39">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="183" label="Residenzstadt des Herzogtums" source="15" target="40">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="184" label="Residenzstadt des Herzogtums" source="15" target="41">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="185" label="Residenzstadt des Herzogtums" source="15" target="42">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="186" label="Residenzstadt des Herzogtums" source="15" target="43">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="187" label="Residenzstadt des Herzogtums" source="15" target="44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="188" label="Residenzstadt des Herzogtums" source="15" target="45">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="189" label="Residenzstadt des Herzogtums" source="15" target="46">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="190" label="Residenzstadt des Herzogtums" source="15" target="47">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="191" label="Residenzstadt des Herzogtums" source="15" target="48">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="192" label="Residenzstadt des Herzogtums" source="15" target="52">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="193" label="Residenzstadt des Herzogtums" source="15" target="53">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="194" label="Residenzstadt des Herzogtums" source="15" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="195" label="Residenzstadt des Herzogtums" source="15" target="55">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="196" label="Residenzstadt des Herzogtums" source="15" target="57">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="197" label="Residenzstadt des Herzogtums" source="15" target="58">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="198" label="Residenzstadt des Herzogtums" source="15" target="59">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="199" label="Residenzstadt des Herzogtums" source="15" target="60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="200" label="Residenzstadt des Herzogtums" source="15" target="61">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="201" label="Residenzstadt des Herzogtums" source="15" target="62">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="202" label="Residenzstadt des Herzogtums" source="15" target="63">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="203" label="Residenzstadt des Herzogtums" source="15" target="65">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="204" label="Residenzstadt des Herzogtums" source="15" target="69">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="205" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="4">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="206" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="2">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="207" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="3">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="208" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="18">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="209" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="8">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="210" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="10">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="211" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="6">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="212" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="9">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="213" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="5">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="214" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="48">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="215" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="7">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="216" label="regelmäßiger &quot;Kontakt&quot;" source="1" target="15">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="217" label="regelmäßiger &quot;Kontakt&quot;" source="1" target="16">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="218" label="regelmäßiger &quot;Kontakt&quot;" source="1" target="11">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="219" label="gelegentlich &quot;Kontakt&quot;" source="1" target="0">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="220" label="gelegentlich &quot;Kontakt&quot;" source="1" target="25">
+            <data key="weight">3.0</data>
+        </edge>
+        <edge directed="false" id="221" label="sporadisch &quot;Kontakt&quot;" source="1" target="40">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="222" label="sporadisch &quot;Kontakt&quot;" source="1" target="27">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="223" label="sporadisch &quot;Kontakt&quot;" source="1" target="19">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="224" label="sporadisch &quot;Kontakt&quot;" source="1" target="12">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="230" label="sporadisch &quot;Kontakt&quot;" source="1" target="53">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="226" label="sporadisch &quot;Kontakt&quot;" source="1" target="28">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="227" label="sporadisch &quot;Kontakt&quot;" source="1" target="20">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="228" label="sporadisch &quot;Kontakt&quot;" source="1" target="41">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="229" label="sporadisch &quot;Kontakt&quot;" source="1" target="32">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="231" label="sporadisch &quot;Kontakt&quot;" source="1" target="21">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="232" label="sporadisch &quot;Kontakt&quot;" source="1" target="64">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="233" label="sporadisch &quot;Kontakt&quot;" source="1" target="29">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="234" label="sporadisch &quot;Kontakt&quot;" source="1" target="42">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="235" label="sporadisch &quot;Kontakt&quot;" source="1" target="50">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="236" label="sporadisch &quot;Kontakt&quot;" source="1" target="46">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="237" label="sporadisch &quot;Kontakt&quot;" source="1" target="44">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="238" label="sporadisch &quot;Kontakt&quot;" source="1" target="49">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge directed="false" id="239" label="wird erwähnt" source="1" target="54">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="240" label="wird erwähnt" source="1" target="58">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="241" label="wird erwähnt" source="1" target="61">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="242" label="wird erwähnt" source="1" target="66">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="243" label="wird erwähnt" source="1" target="63">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="244" label="wird erwähnt" source="1" target="35">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="245" label="wird erwähnt" source="1" target="43">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="246" label="wird erwähnt" source="1" target="36">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="247" label="wird erwähnt" source="1" target="47">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="248" label="wird erwähnt" source="1" target="45">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="249" label="wird erwähnt" source="1" target="22">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="250" label="wird erwähnt" source="1" target="26">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="251" label="wird erwähnt" source="1" target="34">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="252" label="wird erwähnt" source="1" target="38">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="253" label="wird erwähnt" source="1" target="68">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="254" label="wird erwähnt" source="1" target="60">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="255" label="wird erwähnt" source="1" target="39">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="256" label="wird erwähnt" source="1" target="13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="257" label="wird erwähnt" source="1" target="62">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="258" label="wird erwähnt" source="1" target="69">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="259" label="wird erwähnt" source="1" target="30">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="260" label="wird erwähnt" source="1" target="55">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="261" label="wird erwähnt" source="1" target="33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="262" label="wird erwähnt" source="1" target="59">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="263" label="wird erwähnt" source="1" target="57">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="264" label="wird erwähnt" source="1" target="31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="265" label="wird erwähnt" source="1" target="14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="266" label="wird erwähnt" source="1" target="37">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="275" label="Amtsort von" source="70" target="1">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge id="274" label="Amtsstadt von" source="1" target="70">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="269" label="Sehr nah (&lt;10km)" source="1" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="273" label="Residenzstadt im Herzogtum" source="15" target="70">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge directed="false" id="272" label="sehr regelmäßiger &quot;Kontakt&quot;" source="1" target="70">
+            <data key="weight">5.0</data>
+        </edge>
+        <edge directed="false" id="276" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="2">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="277" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="3">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="278" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="4">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="279" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="5">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="280" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="6">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="281" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="282" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="283" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="284" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="285" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="286" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="287" label="Zugehörigkeit zur selben Amtsstadt" source="0" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="288" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="3">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="289" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="4">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="290" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="5">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="291" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="6">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="292" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="293" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="294" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="295" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="296" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="297" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="298" label="Zugehörigkeit zur selben Amtsstadt" source="2" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="299" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="4">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="300" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="5">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="301" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="6">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="302" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="303" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="304" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="305" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="306" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="307" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="308" label="Zugehörigkeit zur selben Amtsstadt" source="3" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="309" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="5">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="310" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="6">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="311" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="312" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="313" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="314" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="315" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="316" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="317" label="Zugehörigkeit zur selben Amtsstadt" source="4" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="318" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="6">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="319" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="320" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="321" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="322" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="323" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="324" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="325" label="Zugehörigkeit zur selben Amtsstadt" source="5" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="326" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="7">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="327" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="328" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="329" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="330" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="331" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="332" label="Zugehörigkeit zur selben Amtsstadt" source="6" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="333" label="Zugehörigkeit zur selben Amtsstadt" source="7" target="8">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="334" label="Zugehörigkeit zur selben Amtsstadt" source="7" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="335" label="Zugehörigkeit zur selben Amtsstadt" source="7" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="336" label="Zugehörigkeit zur selben Amtsstadt" source="7" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="337" label="Zugehörigkeit zur selben Amtsstadt" source="7" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="338" label="Zugehörigkeit zur selben Amtsstadt" source="7" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="339" label="Zugehörigkeit zur selben Amtsstadt" source="8" target="9">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="340" label="Zugehörigkeit zur selben Amtsstadt" source="8" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="341" label="Zugehörigkeit zur selben Amtsstadt" source="8" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="342" label="Zugehörigkeit zur selben Amtsstadt" source="8" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="343" label="Zugehörigkeit zur selben Amtsstadt" source="8" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="344" label="Zugehörigkeit zur selben Amtsstadt" source="9" target="10">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="345" label="Zugehörigkeit zur selben Amtsstadt" source="9" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="346" label="Zugehörigkeit zur selben Amtsstadt" source="9" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="347" label="Zugehörigkeit zur selben Amtsstadt" source="9" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="348" label="Zugehörigkeit zur selben Amtsstadt" source="10" target="18">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="349" label="Zugehörigkeit zur selben Amtsstadt" source="10" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="350" label="Zugehörigkeit zur selben Amtsstadt" source="10" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="351" label="Zugehörigkeit zur selben Amtsstadt" source="18" target="48">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="352" label="Zugehörigkeit zur selben Amtsstadt" source="18" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="353" label="Zugehörigkeit zur selben Amtsstadt" source="48" target="70">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="354" label="Zugehörigkeit zur selben Amtsstadt" source="24" target="38">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="355" label="Zugehörigkeit zur selben Amtsstadt" source="24" target="54">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="356" label="Zugehörigkeit zur selben Amtsstadt" source="38" target="54">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="357" label="Zugehörigkeit zur selben Amtsstadt" source="39" target="69">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge directed="false" id="358" label="Zugehörigkeit zur selben Amtsstadt" source="35" target="63">
+            <data key="weight">4.0</data>
+        </edge>
+    </graph>
+</graphml>

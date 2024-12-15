@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>80068911.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-12-15T16:43:33.186+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Styles>
+      <TextStyle ID="ID_bold" FONTSTYLE="bold"/>
+      <TextStyle ID="ID_italics" FONTSTYLE="italics"/>
+      <TextStyle ID="ID_smallcaps" FONTSTYLE="smallcaps"/>
+      <TextStyle ID="ID_strikethrough" FONTSTYLE="strikethrough"/>
+      <TextStyle ID="ID_subscript" FONTSTYLE="subscript"/>
+      <TextStyle ID="ID_superscript" FONTSTYLE="superscript"/>
+      <TextStyle ID="ID_underline" FONTSTYLE="underline"/>
+   </Styles>
+   <Tags/>
+   <Layout>
+      <Page ID="Page240" PHYSICAL_IMG_NR="240" HEIGHT="5965" WIDTH="5151">
+         <TopMargin HEIGHT="0" WIDTH="5151" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="5965" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="5965" WIDTH="0" VPOS="0" HPOS="5151"/>
+         <BottomMargin HEIGHT="0" WIDTH="5151" VPOS="5965" HPOS="0"/>
+         <PrintSpace HEIGHT="5965" WIDTH="5151" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1" HEIGHT="225" WIDTH="263" VPOS="3541" HPOS="3958">
+               <Shape>
+                  <Polygon POINTS="3958,3541 3958,3766 4221,3766 4221,3541"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="4042,3600 4071,3602 4101,3604 4131,3606 4161,3612 4191,3618"
+                         HEIGHT="170"
+                         WIDTH="168"
+                         VPOS="3518"
+                         HPOS="4024">
+                  <String HEIGHT="170"
+                          WIDTH="504"
+                          VPOS="3518"
+                          HPOS="3688"
+                          CONTENT="&#xA;"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="3958,3737 3984,3735 4010,3734 4036,3732 4063,3732 4089,3734 4115,3736 4142,3737 4168,3737 4194,3737 4221,3737"
+                         HEIGHT="168"
+                         WIDTH="268"
+                         VPOS="3644"
+                         HPOS="3948">
+                  <String HEIGHT="168"
+                          WIDTH="804"
+                          VPOS="3644"
+                          HPOS="3412"
+                          CONTENT="&#xA;"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>80067895.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-12-15T16:13:51.625+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Styles>
+      <TextStyle ID="ID_bold" FONTSTYLE="bold"/>
+      <TextStyle ID="ID_italics" FONTSTYLE="italics"/>
+      <TextStyle ID="ID_smallcaps" FONTSTYLE="smallcaps"/>
+      <TextStyle ID="ID_strikethrough" FONTSTYLE="strikethrough"/>
+      <TextStyle ID="ID_subscript" FONTSTYLE="subscript"/>
+      <TextStyle ID="ID_superscript" FONTSTYLE="superscript"/>
+      <TextStyle ID="ID_underline" FONTSTYLE="underline"/>
+   </Styles>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="6021" WIDTH="3877">
+         <TopMargin HEIGHT="0" WIDTH="3877" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="6021" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="6021" WIDTH="0" VPOS="0" HPOS="3877"/>
+         <BottomMargin HEIGHT="0" WIDTH="3877" VPOS="6021" HPOS="0"/>
+         <PrintSpace HEIGHT="6021" WIDTH="3877" VPOS="0" HPOS="0">
+            <TextBlock ID="tr_1"
+                       HEIGHT="1334"
+                       WIDTH="1983"
+                       VPOS="1035"
+                       HPOS="1057">
+               <Shape>
+                  <Polygon POINTS="1057,1035 1057,2369 3040,2369 3040,1035"/>
+               </Shape>
+               <TextLine ID="tr_1_tl_1"
+                         BASELINE="2042,1122 2068,1118 2095,1115 2122,1111 2148,1109 2175,1107 2202,1106 2228,1105 2255,1105 2282,1105 2308,1106 2335,1107 2362,1109 2389,1111"
+                         HEIGHT="337"
+                         WIDTH="363"
+                         VPOS="863"
+                         HPOS="2026">
+                  <String HEIGHT="337"
+                          WIDTH="467"
+                          VPOS="863"
+                          HPOS="1922"
+                          CONTENT="Neuffen"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_2"
+                         BASELINE="1785,1391 1823,1387 1862,1383 1900,1381 1939,1379 1977,1379 2016,1379 2054,1377 2093,1374 2131,1373 2170,1373 2209,1372 2247,1370 2286,1367 2324,1365 2363,1362 2401,1359 2440,1357 2478,1355 2517,1355 2556,1355"
+                         HEIGHT="251"
+                         WIDTH="786"
+                         VPOS="1186"
+                         HPOS="1770">
+                  <String HEIGHT="251"
+                          WIDTH="943"
+                          VPOS="1186"
+                          HPOS="1613"
+                          CONTENT="Protocoll&#xA;"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_3"
+                         BASELINE="1069,1648 1167,1641 1266,1637 1364,1646 1463,1656 1561,1663 1660,1670 1758,1676 1857,1678 1955,1673 2054,1678 2153,1689 2251,1685 2350,1690 2448,1692 2547,1696 2645,1700 2744,1706 2842,1699 2941,1696 3040,1714"
+                         HEIGHT="454"
+                         WIDTH="1992"
+                         VPOS="1380"
+                         HPOS="1045">
+                  <String HEIGHT="454"
+                          WIDTH="613"
+                          VPOS="1380"
+                          HPOS="968"
+                          CONTENT="Stad"/>
+                  <SP HEIGHT="454" WIDTH="77" VPOS="1380" HPOS="1581"/>
+                  <String HEIGHT="454"
+                          WIDTH="536"
+                          VPOS="1380"
+                          HPOS="1351"
+                          CONTENT="und"/>
+                  <SP HEIGHT="454" WIDTH="77" VPOS="1380" HPOS="1888"/>
+                  <String HEIGHT="454"
+                          WIDTH="613"
+                          VPOS="1380"
+                          HPOS="1658"
+                          CONTENT="Amts"/>
+                  <SP HEIGHT="454" WIDTH="77" VPOS="1380" HPOS="2271"/>
+                  <String HEIGHT="454"
+                          WIDTH="1073"
+                          VPOS="1380"
+                          HPOS="1964"
+                          CONTENT="Versammlung&#xA;"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_4"
+                         BASELINE="1971,1821 1998,1821 2025,1821 2053,1821 2080,1821 2108,1821 2135,1821 2162,1822 2190,1824 2217,1826 2245,1827"
+                         HEIGHT="247"
+                         WIDTH="286"
+                         VPOS="1693"
+                         HPOS="1955">
+                  <String HEIGHT="247"
+                          WIDTH="358"
+                          VPOS="1693"
+                          HPOS="1884"
+                          CONTENT="geführt&#xA;"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_5"
+                         BASELINE="1057,2132 1136,2132 1215,2137 1294,2134 1373,2135 1452,2138 1531,2138 1611,2136 1690,2126 1769,2132 1848,2132 1927,2132 2006,2132 2085,2138 2165,2146 2244,2151 2323,2156 2402,2156 2481,2151 2560,2150 2640,2156"
+                         HEIGHT="281"
+                         WIDTH="1593"
+                         VPOS="1937"
+                         HPOS="1040">
+                  <String HEIGHT="281"
+                          WIDTH="587"
+                          VPOS="1937"
+                          HPOS="956"
+                          CONTENT="Vom"/>
+                  <SP HEIGHT="281" WIDTH="84" VPOS="1937" HPOS="1543"/>
+                  <String HEIGHT="281"
+                          WIDTH="587"
+                          VPOS="1937"
+                          HPOS="1292"
+                          CONTENT="24t"/>
+                  <SP HEIGHT="281" WIDTH="84" VPOS="1937" HPOS="1878"/>
+                  <String HEIGHT="281"
+                          WIDTH="587"
+                          VPOS="1937"
+                          HPOS="1627"
+                          CONTENT="May"/>
+                  <SP HEIGHT="281" WIDTH="84" VPOS="1937" HPOS="2214"/>
+                  <String HEIGHT="281"
+                          WIDTH="503"
+                          VPOS="1937"
+                          HPOS="1962"
+                          CONTENT="p."/>
+                  <SP HEIGHT="281" WIDTH="84" VPOS="1937" HPOS="2465"/>
+                  <String HEIGHT="281"
+                          WIDTH="503"
+                          VPOS="1937"
+                          HPOS="2130"
+                          CONTENT="1734"/>
+               </TextLine>
+               <TextLine ID="tr_1_tl_6"
+                         BASELINE="1576,2275 1628,2285 1680,2294 1732,2297 1785,2299 1837,2299 1889,2290 1942,2280 1994,2273 2046,2269 2099,2269 2151,2284 2203,2305 2255,2312 2308,2319 2360,2326 2412,2329 2465,2329 2517,2329 2569,2330 2622,2335"
+                         HEIGHT="293"
+                         WIDTH="1048"
+                         VPOS="2135"
+                         HPOS="1558">
+                  <String HEIGHT="293"
+                          WIDTH="408"
+                          VPOS="2135"
+                          HPOS="1500"
+                          CONTENT="bis"/>
+                  <SP HEIGHT="293" WIDTH="58" VPOS="2135" HPOS="1907"/>
+                  <String HEIGHT="293"
+                          WIDTH="524"
+                          VPOS="2135"
+                          HPOS="1733"
+                          CONTENT="14ten"/>
+                  <SP HEIGHT="293" WIDTH="58" VPOS="2135" HPOS="2257"/>
+                  <String HEIGHT="293"
+                          WIDTH="408"
+                          VPOS="2135"
+                          HPOS="2082"
+                          CONTENT="Jun"/>
+                  <SP HEIGHT="293" WIDTH="58" VPOS="2135" HPOS="2490"/>
+                  <String HEIGHT="293"
+                          WIDTH="349"
+                          VPOS="2135"
+                          HPOS="2257"
+                          CONTENT="1746"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
